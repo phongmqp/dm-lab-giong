@@ -8,7 +8,12 @@ permissions:
 jobs:
   tts:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        key: [start, m00-, m01-, m02-, m03-, m04-, m05-, m06-, m07-, m08-, m09-, m10-, m11-, m12-, m13-]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -16,12 +21,14 @@ jobs:
       - run: pip install edge-tts
       - name: Tao audio
         working-directory: kit
-        run: python generate_edge.py --parallel 4
+        run: python generate_edge.py --parallel 3 --only "${{ matrix.key }}"
       - name: Luu ket qua
         run: |
           git config user.name "giong-bot"
           git config user.email "bot@users.noreply.github.com"
           git add kit/audio
-          git commit -m "Them giong doc" || echo "khong co gi moi"
-          git pull --rebase origin main || true
-          git push origin HEAD:main
+          git commit -m "Giong ${{ matrix.key }}" || exit 0
+          for i in 1 2 3 4 5 6; do
+            git pull --rebase origin main && git push origin HEAD:main && break
+            sleep $((RANDOM % 10 + 3))
+          done
