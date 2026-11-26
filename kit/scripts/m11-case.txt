@@ -1,0 +1,45 @@
+Chặng mười một, khoảng năm mươi phút
+
+Chính sách và xử lý sự cố
+
+Rà soát nội dung, playbook sự cố và kháng nghị.
+
+Tình huống mô phỏng Hồ sơ mô phỏng: sự cố trước đợt sale
+
+sáu quảng cáo bị từ chối hai ngày trước Black Friday
+
+sáu: Quảng cáo bị từ chối
+
+hai: Ngày đến sale
+
+một: Lần nộp lại được phép
+
+Bối cảnh
+
+Tình huống do giáo trình dựng. Shop mỹ phẩm nộp sáu quảng cáo mới, tất cả bị từ chối với lý do thuộc tính cá nhân và khẳng định về kết quả.
+
+Dữ liệu của hồ sơ
+
+Nội dung cũ: Bạn bị mụn lâu năm? Hết mụn sau bảy ngày, cam kết một trăm phần trăm.
+
+Tài khoản có bốn quảng cáo bị từ chối trong tuần.
+
+Phân tích
+
+Hai lỗi: ngụ ý biết tình trạng cá nhân, Bạn bị mụn, và hứa hẹn kết quả tuyệt đối, hết mụn sau bảy ngày, một trăm phần trăm.
+
+Tài khoản đang có nhiều lần bị từ chối nên cần thận trọng: nộp loạt nhiều quảng cáo sai tiếp có thể kích hoạt hạn chế.
+
+Nguồn không cho biết
+
+Không áp dụng, đây là tình huống minh họa.
+
+Cách áp dụng
+
+Viết lại: Chăm sóc da dầu mụn nhẹ nhàng hơn với routine ba bước, nói về giải pháp, không chỉ vào người xem.
+
+Bỏ hứa hẹn tuyệt đối, thay bằng thông tin thành phần, cách dùng và đánh giá thật có thể chứng minh.
+
+Nộp lại một quảng cáo trước, chờ duyệt, rồi mới nộp các quảng cáo còn lại.
+
+Tình huống mô phỏng.

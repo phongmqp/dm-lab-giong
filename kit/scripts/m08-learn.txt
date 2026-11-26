@@ -1,0 +1,151 @@
+Chặng tám, khoảng năm mươi phút
+
+Phễu, retargeting và catalog
+
+Khi nào tách retargeting, chuỗi thông điệp và chi phí biên.
+
+Nói đơn giản
+
+Phễu đúng là cái phễu: nhiều người vào miệng phễu, ít người ra đáy. Mỗi tầng cần một lời nói khác nhau.
+
+Ví dụ đời thường
+
+Phễu như đi chợ: người dạo qua, biết, người sờ hàng, quan tâm, người hỏi giá, cân nhắc, người trả tiền, mua. Với mỗi người, người bán nói một câu khác nhau.
+
+Nối với điều bạn đã học
+
+ai đa hoặc năm ây mà bạn đã học chính là phễu. Ở digital, mỗi tầng có đối tượng, thông điệp và chỉ số riêng.
+
+Phễu baD: các hạt là khách, rơi rụng dần qua từng tầng, kéo để xoay.
+
+Ba nhóm khách, ba lời khác nhau.
+
+Thuật ngữ của chặng này
+
+Phễu, Funnel. Hành trình từ biết đến mua. Mỗi tầng rơi rụng bớt người. Ví dụ: Xem vi đê ô, vào web, thêm giỏ, mua.
+
+ri tác get ting. Nhắm lại những người đã quan tâm nhưng chưa mua. Ví dụ: Khách thêm giỏ nhưng chưa thanh toán thấy quảng cáo nhắc.
+
+Catalog. Danh sách sản phẩm, tên, giá, ảnh, tồn kho, để chạy quảng cáo danh mục. Ví dụ: Quảng cáo tự hiện đúng sản phẩm khách vừa xem.
+
+Câu chuyện của Mai và chị Hạnh
+
+Mai nói: Em gửi quảng cáo Giảm ba mươi phần trăm hôm nay cho tất cả mọi người cho đỡ phải làm nhiều.
+
+Chị Hạnh nói: Người chưa biết Lúa Skin thì cần lý do để tin. Người đã xem vi đê ô cần bằng chứng. Người đã thêm giỏ mà chưa mua mới cần ưu đãi nhắc nhẹ.
+
+Mai nói: Mỗi tầng một lời khác nhau ạ?
+
+Chị Hạnh nói: Đúng. Đừng nói câu chốt đơn với người mới gặp lần đầu.
+
+Cách tính ra con số
+
+Chi phí biên của retargeting
+
+Công thức. Đơn tăng thêm bằng Đơn báo cáo trừ Đơn vẫn xảy ra nếu không thấy quảng cáo. xi pi ây biên bằng Chi phí chia Đơn tăng thêm
+
+Đề bài. Chi phí retargeting: sáu triệu đồng. Đơn báo cáo: sáu mươi. Đơn ước tính vẫn xảy ra nếu không thấy quảng cáo: ba mươi sáu, từ nhóm đối chứng,
+
+xi pi ây báo cáo: sáu triệu chia sáu mươi bằng một trăm nghìn đồng
+
+Đơn tăng thêm: sáu mươi trừ ba mươi sáu bằng hai mươi tư đơn
+
+xi pi ây biên: sáu triệu chia hai mươi tư bằng hai trăm năm mươi nghìn đồng
+
+Kết luận. xi pi ây báo cáo một trăm nghìn đồng trông rất rẻ, nhưng mỗi đơn do retargeting thật sự tạo ra là hai trăm năm mươi nghìn đồng. Số giả định để minh họa.
+
+Vì sao tính như vậy? Người đã thêm giỏ hàng nhiều khả năng sẽ mua dù thấy hay không thấy quảng cáo nhắc. Muốn biết giá trị thật, cần nhóm đối chứng hoặc thử tạm dừng một phần. Đừng dồn ngân sách chỉ vì xi pi ây retargeting thấp.
+
+Nhắn tin với sếp
+
+Mai muốn dồn tiền vào retargeting vì xi pi ây thấp.
+
+Bản chưa tốt
+
+Mai nhắn: Chị ơi retargeting xi pi ây chỉ một trăm nghìn đồng, em tăng gấp đôi nhé.
+
+Bản tốt
+
+Mai nhắn: Chị ơi, retargeting đang báo xi pi ây một trăm nghìn đồng nhưng theo nhóm đối chứng ba mươi sáu hoặc sáu mươi đơn vẫn xảy ra nếu không thấy quảng cáo, nên xi pi ây biên xấp xỉ hai trăm năm mươi nghìn đồng. Em xin giữ ngân sách retargeting hiện tại, dồn thêm hai mươi phần trăm cho tệp lạnh để nuôi phễu, và đặt giới hạn tần suất nhỏ hơn hoặc bằng ba. Chị đồng ý không ạ?
+
+Vì sao bản tốt hơn?
+
+Nêu cả con số báo cáo lẫn con số biên.
+
+Giải thích vì sao không tăng.
+
+Đề xuất hướng thay thế.
+
+Vì sao bạn cần học phần này
+
+Có phễu rõ ràng giúp bạn quyết định tiền đi đâu: tìm khách mới, nhắm lại người quan tâm, hay chăm khách cũ. Nhưng cấu trúc hiện đại ít tách nhỏ hơn trước, nên bạn cần biết khi nào tách là cần thiết.
+
+Sau chặng này bạn sẽ
+
+Quyết định có tách retargeting hay không dựa trên khối lượng sự kiện
+
+Thiết kế chuỗi thông điệp theo giai đoạn quyết định
+
+Hiểu chi phí biên tăng khi mở rộng
+
+Phễu hiện đại
+
+Nowoka khuyên với nhiều tài khoản: chạy một hoặc hai chiến dịch át van tịt chính để tìm khách mới, chỉ giữ chiến dịch retargeting riêng khi có đủ lưu lượng và lý do rõ ràng, ưu đãi khác, loại trừ khác. át van tịt sales có thể phân phối cho cả khách mới và khách cũ nên bạn cần theo dõi tỷ lệ chi cho khách cũ.
+
+Cửa sổ retargeting và tần suất
+
+Chọn cửa sổ theo giá trị và thời gian cân nhắc. Modern Marketing Institute gợi ý cho cửa sổ ghi nhận: đơn giá thấp mua nhanh, dưới khoảng năm mươi iu ét đi, hợp một ngày sau click; đơn cân nhắc, khoảng năm mươi đến hai trăm iu ét đi, hợp bảy ngày; trên khoảng hai trăm iu ét đi có thể thêm một ngày xem. Enrich Labs khuyên retargeting chỉ nên dùng một ngày sau click để tránh tính trùng.
+
+Giáo trình gợi ý cho cửa sổ đối tượng: đơn giá thấp một đến bảy ngày, đơn cân nhắc bảy đến ba mươi ngày, và đủ lớn để ra năm mươi sự kiện mỗi tuần.
+
+Chuỗi thông điệp theo giai đoạn
+
+Khách đã xem nhưng chưa mua thường vướng một rào cản. Dùng ba bước nội dung:
+
+Bằng chứng: review thật, nội dung từ khách, số liệu.
+
+Giải quyết phản đối: bảo hành, đổi trả, giao hàng, kiểm tra hàng trước khi thanh toán, câu hỏi thường gặp.
+
+Ưu đãi có hạn: giới hạn thời gian hoặc số lượng có thật.
+
+Ví dụ. Femibion, Merck, chạy carousel cho nhóm khách mục tiêu rồi retargeting bằng ảnh tĩnh cho người đã tương tác, cắt chi phí phát mẫu một nửa, xem tab Case.
+
+Catalog và quảng cáo động
+
+Với shop có nhiều sản phẩm, đưa catalog vào Commerce Manager để chạy quảng cáo danh mục. Chất lượng nguồn cấp dữ liệu quyết định hiệu quả: tên, giá, ảnh, tình trạng tồn kho, đường dẫn đúng.
+
+Lưu ý với người bán trên sàn: píc xồ trên website của bạn không thấy đơn trên sốp pi hay tích tốc Shop. Hãy dùng sự kiện click hoặc xem trang làm mục tiêu và đối chiếu doanh số với dữ liệu của sàn, giả định của giáo trình, Module chín hướng dẫn cách đối chiếu.
+
+Chi phí biên tăng khi mở rộng
+
+Khi tăng ngân sách, chi phí mỗi kết quả thường tăng vì phải với tới người kém phù hợp hơn. Ví dụ của Major Impact mi đi a, HubSpot, ngày đầu có tám lead giá hai phẩy bốn mươi lăm iu ét đi mỗi lead; qua chín mươi ngày, hơn ba trăm bảy mươi lead với giá trung bình sáu phẩy bảy mươi bảy iu ét đi mỗi lead. Cần lưu ý mẫu tám lead là rất nhỏ nên chỉ nên xem là minh họa về xu hướng.
+
+Có nên tách retargeting?
+
+Điều kiện: Tệp đủ lớn để có lớn hơn hoặc bằng năm mươi sự kiện trên tuần và có ưu đãi khác. Gợi ý: Tách chiến dịch retargeting. Độ tin cậy:
+
+Điều kiện: Tệp nhỏ, ít sự kiện. Gợi ý: Gộp vào chiến dịch chính hoặc dùng sự kiện tầng trên. Độ tin cậy:
+
+Điều kiện: Cần loại khách đã mua. Gợi ý: Dùng tệp loại trừ. Độ tin cậy:
+
+Điều kiện: Đơn giá cao, cân nhắc lâu. Gợi ý: Cửa sổ dài hơn và nội dung nhiều giải thích. Độ tin cậy:
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: ri tác get ting luôn rẻ nên dồn hết ngân sách vào đó.
+
+Thực tế: Tệp nhỏ, dễ mệt vì thấy quá nhiều lần, và một phần số người đó vẫn sẽ mua kể cả không thấy quảng cáo. Cần tệp mới nuôi phễu.
+
+Nhiều người nghĩ: Khách đi theo đường thẳng từ biết đến mua.
+
+Thực tế: Khách đi vòng, quay lại, so sánh. Phễu là công cụ nghĩ, không phải lịch trình cố định.
+
+Chị Hạnh dặn: Đừng nói câu chốt đơn với người vừa gặp lần đầu.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Viết ba thông điệp cho ba tầng phễu của một sản phẩm. Có thể đổi chỗ thông điệp giữa các tầng mà vẫn hợp lý không?
+
+Thử trong mười phút
+
+Viết ba thông điệp cho ba tầng phễu của một sản phẩm: người chưa biết, người đã xem, người sắp mua.

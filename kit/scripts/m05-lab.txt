@@ -1,0 +1,57 @@
+Chặng năm, khoảng bốn mươi lăm phút
+
+Đối tượng và át van tịt
+
+Giới hạn cứng, tệp tùy chỉnh, loại trừ và ây bi tét đúng cách.
+
+Tình huống ra quyết định
+
+Tình huống: ri tác get ting quá nhỏ
+
+Tình huống mô phỏng: tệp người xem sản phẩm ba mươi ngày có tám nghìn người. Tỷ lệ mua trong ba mươi ngày khoảng một phẩy năm phần trăm. Nhóm retargeting liên tục lơ ning lim mịt.
+
+Tệp: tám nghìn người
+
+Đơn hoặc ba mươi ngày: xấp xỉ một trăm hai mươi
+
+Đơn trên tuần: xấp xỉ hai mươi tám
+
+Hướng xử lý nào hợp lý?
+
+Lựa chọn một: Tăng ngân sách thật mạnh để lấp đầy
+
+Lựa chọn hai: Mở rộng cửa sổ truy cập, ví dụ sáu mươi đến chín mươi ngày, gộp vào chiến dịch chính hoặc hạ sự kiện tối ưu tầng trên
+
+Lựa chọn ba: Thu hẹp tệp nữa cho chính xác
+
+Lựa chọn bốn: Tắt retargeting vĩnh viễn
+
+Tình huống: Phòng khám nha khoa tại Hà Nội
+
+Phòng khám chỉ phục vụ tại Hà Nội. Bạn đang chạy toàn quốc vì để máy tìm khách.
+
+Khách mục tiêu: Hà Nội
+
+Cài đặt hiện tại: Cả nước
+
+Điều chỉnh nào đúng?
+
+Lựa chọn một: Giữ nguyên
+
+Lựa chọn hai: Giới hạn địa lý theo khu vực phục vụ, vẫn dùng át van tịt cho phần còn lại
+
+Lựa chọn ba: Thêm hai mươi sở thích
+
+Lựa chọn bốn: Đổi sang ờ quơ nét
+
+Nhịp làm việc của ếch xê kiu tiv
+
+Cập nhật tệp loại trừ khách đã mua
+
+Kiểm tra mức chồng lấn giữa các nhóm
+
+Ghi các thử nghiệm đối tượng vào nhật ký
+
+Đảm bảo mỗi tệp retargeting đủ lớn
+
+Sản phẩm bàn giao: Thiết kế bản kế hoạch ây bi tét đối tượng: giả thuyết, biến, thời gian, ngưỡng thắng.

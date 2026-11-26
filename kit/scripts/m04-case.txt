@@ -1,0 +1,43 @@
+Chặng bốn, khoảng sáu mươi phút
+
+Ngân sách, learning phase và mở rộng
+
+Tính ngân sách từ xi pi ây, tránh reset học, lộ trình tăng an toàn.
+
+Case thực tế Case tính toán từ ví dụ trong nguồn
+
+tám nhóm quảng cáo, mỗi nhóm hai mươi iu ét đi trên ngày, xi pi ây ba mươi iu ét đi
+
+bốn phẩy bảy: Chuyển đổi trên tuần trên nhóm
+
+năm mươi: Mốc cần có
+
+hai trăm mười bốn: iu ét đi trên ngày tối thiểu trên nhóm
+
+Bối cảnh
+
+Modern Marketing Institute đưa ví dụ: tám nhóm quảng cáo, mỗi nhóm hai mươi iu ét đi trên ngày, làm ngân sách bị chia nhỏ đến mức không nhóm nào chạm năm mươi chuyển đổi mỗi tuần.
+
+Dữ kiện từ nguồn
+
+Nguồn khuyên tối đa hai đến ba nhóm với ngân sách chiến dịch, ngân sách ngày tối thiểu bằng xi pi ây nhân năm mươi chia bảy.
+
+Với xi pi ây ba mươi iu ét đi, công thức của chính nguồn cho ba mươi nhân năm mươi chia bảy xấp xỉ hai trăm mười bốn iu ét đi trên ngày trên nhóm. Tuy nhiên chính bài viết lại viết khoảng ba mươi iu ét đi trên ngày cho ví dụ này, tức là con số trong bài không khớp với công thức của nó.
+
+Phân tích
+
+Tính lại: hai mươi iu ét đi nhân bảy bằng một trăm bốn mươi iu ét đi trên tuần, chia xi pi ây ba mươi iu ét đi xấp xỉ bốn phẩy bảy chuyển đổi mỗi nhóm mỗi tuần, chỉ bằng khoảng chín phần trăm mốc năm mươi.
+
+Công thức đúng: ba mươi nhân năm mươi chia bảy xấp xỉ hai trăm mười bốn iu ét đi trên ngày trên nhóm. Đây là lý do khi gặp ví dụ trong tài liệu, hãy tự tính lại bằng máy tính, đừng sao chép.
+
+Nguồn không cho biết
+
+Ví dụ trong nguồn không có số liệu chiến dịch thật.
+
+Cách áp dụng
+
+Tính số sự kiện trên tuần của từng nhóm hiện tại.
+
+Gom về số nhóm mà ngân sách đủ nuôi.
+
+Nguồn: Modern Marketing Institute, bảy reasons stuck in learning phase. Nguồn là bài hướng dẫn của bên thứ ba, nên giáo trình phát hiện và ghi lại chỗ lệch số.

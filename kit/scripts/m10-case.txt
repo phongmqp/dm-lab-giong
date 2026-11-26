@@ -1,0 +1,87 @@
+Chặng mười, khoảng bảy mươi phút
+
+Chẩn đoán và tối ưu hằng ngày
+
+Thang phễu, quy tắc tắt hoặc giữ hoặc tăng và hai hồ sơ mô phỏng.
+
+Tình huống mô phỏng Hồ sơ mô phỏng A: mệt mỏi creative
+
+Shop thời trang Gen Z: xi pi ây tăng bảy mươi phần trăm sau ba tuần
+
+một trăm bốn mươi nghìn, hai trăm ba mươi tám nghìn: xi pi ây
+
+hai phẩy một phần trăm, một phẩy bốn phần trăm: xi ti a
+
+một phẩy sáu, ba phẩy bốn: phờ ri quần xi
+
+Bối cảnh
+
+Tình huống do giáo trình dựng, số liệu nhất quán để bạn luyện chẩn đoán. Shop thời trang chạy tìm khách mới với hai creative. Tỷ lệ từ click đến mua giữ ổn định ở ba phần trăm.
+
+Dữ liệu của hồ sơ
+
+Tuần một: xi pi em tám mươi tám nghìn, xi ti a hai phẩy một phần trăm, frequency một phẩy sáu, xi pi xi xấp xỉ bốn nghìn một trăm chín mươi đồng, xi pi ây xấp xỉ một trăm bốn mươi nghìn.
+
+Tuần hai: xi pi em chín mươi hai nghìn, xi ti a một phẩy tám phần trăm, frequency hai phẩy ba, xi pi xi xấp xỉ năm nghìn một trăm mười đồng, xi pi ây xấp xỉ một trăm bảy mươi nghìn.
+
+Tuần ba: xi pi em một trăm nghìn, xi ti a một phẩy bốn phần trăm, frequency ba phẩy bốn, xi pi xi xấp xỉ bảy nghìn một trăm bốn mươi đồng, xi pi ây xấp xỉ hai trăm ba mươi tám nghìn.
+
+Phân tích
+
+Điểm gãy đầu tiên nằm ở xi ti a, giảm khoảng ba mươi ba phần trăm từ tuần một đến tuần ba, và xi pi em, tăng khoảng mười bốn phần trăm, kèm frequency vượt ba. Tỷ lệ chuyển đổi từ click ổn định nên trang đích và ưu đãi không phải nguyên nhân.
+
+Chẩn đoán: mệt mỏi creative. xi pi xi tăng khoảng bảy mươi phần trăm vì xi ti a giảm và xi pi em tăng, kéo xi pi ây lên tương ứng, xi pi ây bằng xi pi xi chia tỷ lệ chuyển đổi.
+
+Nguồn không cho biết
+
+Đây là số liệu mô phỏng, không phải của doanh nghiệp thật.
+
+Cách áp dụng
+
+Không đổi trang đích hay ưu đãi.
+
+Thêm ba đến năm concept mới, không phải biến thể nhỏ, tạm dừng creative yếu nhất.
+
+Đặt tiêu chí và theo dõi hook hoặc xi ti a hai đến ba ngày đầu, quyết định theo xi pi ây sau khi đủ dữ liệu.
+
+Tình huống mô phỏng.
+
+Tình huống mô phỏng Hồ sơ mô phỏng B: lead rẻ nhưng kém chất lượng
+
+Spa: xi pi eo giảm hai mươi lăm phần trăm nhưng chi phí mỗi lịch hẹn tăng bốn mươi sáu phần trăm
+
+sáu mươi nghìn, bốn mươi lăm nghìn: xi pi eo
+
+ba mươi lăm phần trăm, mười tám phần trăm: lít đặt lịch
+
+một trăm bảy mươi mốt nghìn, hai trăm năm mươi nghìn: Chi phí hoặc lịch hẹn
+
+Bối cảnh
+
+Tình huống do giáo trình dựng. Spa chạy lead qua tin nhắn; sau ba tuần chi phí mỗi lead giảm nhưng tỷ lệ lead đặt lịch cũng giảm.
+
+Dữ liệu của hồ sơ
+
+Tuần một: xi pi eo sáu mươi nghìn đồng, tỷ lệ lead đặt lịch ba mươi lăm phần trăm, chi phí mỗi lịch hẹn xấp xỉ một trăm bảy mươi mốt nghìn đồng.
+
+Tuần ba: xi pi eo bốn mươi lăm nghìn đồng, tỷ lệ mười tám phần trăm, chi phí mỗi lịch hẹn bằng hai trăm năm mươi nghìn đồng.
+
+Phân tích
+
+xi pi eo tốt hơn nhưng chỉ số thật là chi phí mỗi lịch hẹn: sáu mươi nghìn chia không phẩy ba mươi lăm xấp xỉ một trăm bảy mươi mốt nghìn đồng so với bốn mươi lăm nghìn chia không phẩy mười tám bằng hai trăm năm mươi nghìn đồng, tăng khoảng bốn mươi sáu phần trăm.
+
+Nguyên nhân có thể: thuật toán chạy theo cuộc trò chuyện dễ lấy, thu số điện thoại quá dễ, tốc độ phản hồi chậm. Đây là giả thuyết cần kiểm tra.
+
+Nguồn không cho biết
+
+Số liệu mô phỏng.
+
+Cách áp dụng
+
+Thêm câu hỏi lọc trước khi xin số điện thoại.
+
+Thử xi ti em-eo ô và gửi sự kiện lead đủ điều kiện về mê ta, Module bảy.
+
+Đo thời gian phản hồi đầu tiên.
+
+Tình huống mô phỏng.

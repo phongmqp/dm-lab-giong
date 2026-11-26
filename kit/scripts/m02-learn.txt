@@ -1,0 +1,175 @@
+Chặng hai, khoảng bảy mươi phút
+
+tra king: píc xồ, ca pi và chất lượng dữ liệu
+
+Khử trùng lặp, i ven mát quan li ti và quy trình kiu ây tám bước.
+
+Nói đơn giản
+
+píc xồ và con vơ sần ây pi ai là camera chấm công ghi lại khách làm gì trên website. Camera ghi sai thì mê ta học sai, bạn tối ưu sai mà không hay biết.
+
+Ví dụ đời thường
+
+píc xồ giống camera cửa hàng: ghi lại ai bước vào, ai xem hàng. ca pi giống sổ sách kế toán: ghi mọi đơn đã thanh toán, kể cả khi camera hỏng hoặc bị che. Hai nguồn phải ghi cùng mã đơn, nếu không mê ta sẽ đếm một đơn hai lần.
+
+Nối với điều bạn đã học
+
+Trong nghiên cứu thị trường, mẫu sai thì kết luận sai. Ở đây, dữ liệu tra king chính là mẫu mà thuật toán dùng để học.
+
+Cùng một đơn hàng đi hai đường, píc xồ và ca pi, về mê ta, rồi được gộp lại nhờ i ven ai đi.
+
+Hai đường dữ liệu, trình duyệt và máy chủ, gặp nhau ở bước khử trùng lặp.
+
+Thuật ngữ của chặng này
+
+Sự kiện, i ven. Tín hiệu gửi về mê ta khi khách làm gì đó, như ViewContent, AddToCart, Purchase. Ví dụ: Khách bấm Đặt hàng xong thì gửi sự kiện Purchase kèm giá trị.
+
+mê ta píc xồ. Đoạn mã trên website chạy trong trình duyệt của khách và gửi sự kiện về mê ta. Ví dụ: Gắn trên mọi trang để biết ai xem sản phẩm.
+
+con vơ sần ây pi ai, ca pi. Cách gửi sự kiện từ máy chủ của bạn tới mê ta, ít bị trình duyệt chặn hơn píc xồ. Ví dụ: Hệ thống đơn hàng gửi Purchase sau khi thanh toán thành công.
+
+Khử trùng lặp, Deduplication. Gộp cùng một sự kiện từ píc xồ và ca pi thành một, nhờ cùng tên sự kiện và i ven ai đi. Ví dụ: Đơn một nghìn không trăm bốn mươi hai có i ven ai đi ord một nghìn không trăm bốn mươi hai ở cả hai nguồn.
+
+i ven mát quan li ti. Điểm từ không đến mười cho biết mê ta khớp thông tin khách với tài khoản mê ta tốt đến đâu. Ví dụ: Thêm i meo và số điện thoại đã băm thường tăng điểm.
+
+đa ta sét. Nơi mê ta gom sự kiện của một website hoặc ứng dụng. Trước đây thường gọi là píc xồ. Ví dụ: Một website thường gắn một dataset.
+
+Câu chuyện của Mai và chị Hạnh
+
+Mai nói: Chị ơi, mê ta báo một trăm hai mươi đơn mà hệ thống bán hàng chỉ có bảy mươi tám đơn. Em chạy tốt thế mà!
+
+Chị Hạnh nói: Chưa chắc. Em mở tét i ven, bấm đặt một đơn thử rồi xem sự kiện Purchase xuất hiện mấy lần.
+
+Mai nói: Dạ hai lần ạ. Một từ trình duyệt, một từ máy chủ, mã i ven ai đi khác nhau.
+
+Chị Hạnh nói: Vậy là đếm đôi. Hai nguồn phải gửi cùng tên sự kiện và cùng i ven ai đi thì mê ta mới gộp thành một.
+
+Cách tính ra con số
+
+mê ta báo một trăm hai mươi đơn nhưng hệ thống chỉ có bảy mươi tám đơn: lệch bao nhiêu?
+
+Công thức. Độ lệch so với thật bằng, Đơn mê ta trừ Đơn thật, chia Đơn thật
+
+Đề bài. Đơn theo mê ta: một trăm hai mươi. Đơn thật, đã trừ hủy hoặc hoàn, bảy mươi tám
+
+Số đơn chênh: một trăm hai mươi trừ bảy mươi tám bằng bốn mươi hai
+
+mê ta báo nhiều hơn thật: bốn mươi hai chia bảy mươi tám bằng năm mươi ba phẩy tám phần trăm
+
+Nếu toàn bộ chênh lệch là do đếm đôi, cứ một trăm đơn thật có bao nhiêu đơn bị báo hai lần?: bốn mươi hai chia bảy mươi tám nhân một trăm bằng năm mươi tư đơn
+
+Kết luận. mê ta nhiều hơn thật năm mươi ba phẩy tám phần trăm. Con số này là cận trên của lỗi đếm đôi.
+
+Vì sao tính như vậy? Chênh lệch còn có thể do đơn bị hủy hoặc hoàn sau khi mê ta đã ghi nhận, hoặc cửa sổ ghi nhận khác nhau. Vì vậy ta dùng tét i ven để xem Purchase xuất hiện mấy lần cho một đơn thử, rồi mới kết luận.
+
+Nhắn tin với sếp
+
+Mai phát hiện mê ta báo nhiều hơn đơn thật.
+
+Bản chưa tốt
+
+Mai nhắn: Chị ơi số đơn mê ta với hệ thống không khớp.
+
+Bản tốt
+
+Mai nhắn: Chị ơi, bảy ngày qua mê ta báo một trăm hai mươi đơn, hệ thống bán hàng bảy mươi tám đơn, mê ta nhiều hơn năm mươi tư phần trăm. Em thử đặt một đơn trong tét i ven thì Purchase hiện hai lần với i ven ai đi khác nhau: có thể píc xồ và ca pi đang đếm đôi. Em đã báo anh dev sửa để cả hai gửi cùng i ven ai đi. Từ giờ tới khi sửa xong, em dùng số đơn thật để tính xi pi ây và sẽ báo chị khi khớp lại.
+
+Vì sao bản tốt hơn?
+
+Có hai con số và mức lệch.
+
+Có bằng chứng đã kiểm, tét i ven.
+
+Nói rõ tạm thời dùng số nào để quyết định.
+
+Vì sao bạn cần học phần này
+
+mê ta chỉ tối ưu theo những sự kiện nó nhận được. Sự kiện thiếu, trùng hoặc sai giá trị sẽ làm thuật toán học sai, và bạn sẽ tối ưu sai mà không biết. Đây là phần kỹ thuật quan trọng nhất của một ếch xê kiu tiv.
+
+Sau chặng này bạn sẽ
+
+Phân biệt píc xồ, con vơ sần ây pi ai và vai trò của khử trùng lặp, deduplication,
+
+Đọc được i ven mát quan li ti và biết cách cải thiện
+
+Chạy quy trình kiu ây tám bước và phát hiện lệch dữ liệu
+
+píc xồ, con vơ sần ây pi ai và vì sao cần cả hai
+
+mê ta píc xồ là đoạn mã chạy trên trình duyệt, gửi sự kiện khi khách xem trang, thêm giỏ, mua. con vơ sần ây pi ai, ca pi, gửi sự kiện từ máy chủ của bạn trực tiếp tới mê ta, ít bị chặn bởi trình duyệt hơn. Dùng cả hai, redundant setup, cho độ phủ tốt hơn, nhưng phải khử trùng lặp để một đơn không bị đếm hai lần.
+
+Theo tài liệu mê ta đi ve lốp pơ: dùng cùng event name cho cả hai nguồn, và gửi i ven ai đi; cũng nên gửi external id, và có thể kết hợp external id với fbp để hỗ trợ khử trùng lặp.
+
+Ví dụ. Khách đặt hàng. píc xồ gửi Purchase với i ven ai đi ord một nghìn không trăm bốn mươi hai. Máy chủ cũng gửi Purchase với i ven ai đi ord một nghìn không trăm bốn mươi hai. mê ta gộp thành một sự kiện.
+
+Danh sách sự kiện chuẩn và giá trị
+
+Các sự kiện phổ biến: PageView, ViewContent, AddToCart, InitiateCheckout, AddPaymentInfo, Purchase, lít, Contact, CompleteRegistration. Với Purchase hãy gửi value và currency, vi en đi, để mê ta có thể tối ưu theo giá trị và tính rô át.
+
+Sai lầm thường gặp
+
+Gửi giá trị theo ngàn đồng ở nơi này và đồng ở nơi khác, làm rô át sai hàng nghìn lần.
+
+Sự kiện Purchase kích hoạt khi bấm nút Đặt hàng thay vì khi trang cảm ơn hiển thị.
+
+Gắn sự kiện lít cho cả người chỉ mở form.
+
+i ven mát quan li ti, i em kiu, và tham số khách hàng
+
+Mỗi sự kiện web có điểm i em kiu trên thang mười trong Events Manager, thể hiện khả năng khớp thông tin khách với tài khoản mê ta. Chỉ những sự kiện khớp mới dùng được cho phân bổ và tối ưu giao hàng, mê ta đi ve lốp pơ. Thêm nhiều tham số hơn thường cải thiện điểm.
+
+Tham số được khuyến nghị: i meo, em, số điện thoại, ph, họ tên, fn, ln, ai pi khách, client ip address. Với sự kiện web cần thêm client user agent và event source url; action source bắt buộc với mọi sự kiện. Dữ liệu cá nhân phải được băm, ét ếch ây-hai trăm năm mươi sáu, trước khi gửi nếu không dùng Business ét đi ca tự động băm.
+
+Ở Việt Nam số điện thoại là tham số mạnh vì khách điền khi đặt hàng. Chuẩn hóa trước khi băm: chỉ giữ chữ số và thêm mã quốc gia, ví dụ chín trăm mười hai triệu ba trăm bốn mươi lăm nghìn sáu trăm bảy mươi tám thành tám mươi tư tỷ chín trăm mười hai triệu ba trăm bốn mươi lăm nghìn sáu trăm bảy mươi tám. Hãy đối chiếu quy tắc chuẩn hóa hiện hành trong tài liệu mê ta.
+
+Ví dụ. Một nguồn thực hành, Cometly, coi i em kiu dưới khoảng sáu là dấu hiệu có vấn đề. Đây là quy ước ngành, không phải ngưỡng chính thức của mê ta.
+
+Quy trình kiu ây tra king tám bước
+
+Làm khi dựng mới và mỗi khi website thay đổi.
+
+Mở Events Manager, chọn đa ta sét, vào tét i ven.
+
+Dùng chính thông tin liên hệ của bạn để thử, vì sự kiện kiểm thử không khớp tài khoản có thể bị loại, mê ta đi ve lốp pơ.
+
+Chạy luồng mua hàng thật trên trang staging hoặc đơn thử và xem từng sự kiện xuất hiện.
+
+Kiểm tra value, currency, content ids có đúng.
+
+Xác nhận sự kiện từ máy chủ có cùng i ven ai đi với píc xồ và được khử trùng lặp.
+
+Xem i em kiu từng sự kiện và bổ sung tham số còn thiếu.
+
+So sánh số Purchase bảy ngày trong mê ta với đơn thật trong hệ thống bán hàng. Một nguồn thực hành nêu ví dụ lệch ba mươi phần trăm, ghi nhận ba mươi lăm trên năm mươi đơn thật, là có vấn đề tra king.
+
+Ghi lại cấu hình và đặt cảnh báo khi số đơn lệch bất thường.
+
+Bảng chẩn đoán tra king
+
+Triệu chứng: mê ta ghi ba Purchase nhưng hệ thống có mười lăm đơn. Nghi ngờ: Sự kiện không bắn hoặc bắn sai trang. Cách kiểm: tét i ven, kiểm tra trang cảm ơn, trình quản lý thẻ. Độ tin cậy:
+
+Triệu chứng: Số Purchase của mê ta cao hơn đơn thật. Nghi ngờ: Trùng lặp, đếm đơn bị hủy, đếm nhiều lần. Cách kiểm: Kiểm tra i ven ai đi, đối chiếu mã đơn. Độ tin cậy:
+
+Triệu chứng: i em kiu thấp. Nghi ngờ: Thiếu em hoặc ph hoặc fn, thiếu ai pi hoặc user agent. Cách kiểm: Bổ sung tham số, kiểm tra băm và chuẩn hóa. Độ tin cậy:
+
+Triệu chứng: rô át rất cao bất thường. Nghi ngờ: Value sai đơn vị hoặc trùng sự kiện. Cách kiểm: Kiểm tra trường value và currency. Độ tin cậy:
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: Có píc xồ là đủ.
+
+Thực tế: píc xồ có thể bị trình duyệt hoặc tiện ích chặn. Gửi thêm qua con vơ sần ây pi ai giúp bù phần mất, miễn là khử trùng lặp đúng.
+
+Nhiều người nghĩ: mê ta báo nhiều đơn hơn nghĩa là chạy tốt hơn.
+
+Thực tế: Có thể là đếm đôi hoặc đếm đơn sau này bị hủy. Luôn đối chiếu với đơn thật.
+
+Chị Hạnh dặn: Dữ liệu sai thì tối ưu càng giỏi càng sai nhanh.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Giải thích trong một phút cho bạn bè vì sao một đơn hàng có thể bị đếm hai lần, và cách ngăn điều đó.
+
+Thử trong mười phút
+
+Dùng công cụ tét i ven với một đơn thử. Ghi lại năm sự kiện xuất hiện và các tham số đi kèm của từng sự kiện.

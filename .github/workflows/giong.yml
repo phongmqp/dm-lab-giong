@@ -1,0 +1,27 @@
+name: Tao giong doc
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/giong.yml']
+permissions:
+  contents: write
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install edge-tts
+      - name: Tao audio
+        working-directory: kit
+        run: python generate_edge.py --parallel 4
+      - name: Luu ket qua
+        run: |
+          git config user.name "giong-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add kit/audio
+          git commit -m "Them giong doc" || echo "khong co gi moi"
+          git pull --rebase origin main || true
+          git push origin HEAD:main

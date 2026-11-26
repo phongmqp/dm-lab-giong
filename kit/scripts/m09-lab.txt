@@ -1,0 +1,59 @@
+Chặng chín, khoảng sáu mươi phút
+
+Attribution và đối chiếu số liệu
+
+Cửa sổ ghi nhận hai nghìn không trăm hai mươi sáu, mê ta so với đơn thật, em i a.
+
+Tình huống ra quyết định
+
+Tình huống: mê ta rô át bốn phẩy năm nhưng đơn thật ít hơn
+
+Tình huống mô phỏng: mê ta ghi một trăm hai mươi đơn, rô át bốn phẩy năm, ghi nhận bảy ngày click cộng một ngày view. Hệ thống đơn hàng có bảy mươi tám đơn trong cùng thời gian. bốn mươi lăm phần trăm kết quả đến từ một ngày view.
+
+mê ta: một trăm hai mươi đơn
+
+Thực tế: bảy mươi tám đơn
+
+Chênh lệch: xấp xỉ năm mươi tư phần trăm
+
+View-through: bốn mươi lăm phần trăm
+
+Bạn làm gì trước tiên?
+
+Lựa chọn một: Báo cáo rô át bốn phẩy năm vì mê ta là nguồn chính thức
+
+Lựa chọn hai: Kiểm tra khử trùng lặp và đơn hủy, xem lại ghi nhận chỉ click, nêu rõ cửa sổ trong báo cáo
+
+Lựa chọn ba: Tăng ngân sách gấp đôi
+
+Lựa chọn bốn: Tắt píc xồ
+
+Tình huống: Sếp muốn rô át đẹp hơn
+
+Sếp gợi ý đổi cài đặt ghi nhận sang cửa sổ rộng hơn để rô át trên báo cáo cao hơn trước buổi họp.
+
+rô át hiện tại: hai phẩy bốn
+
+Cửa sổ: bảy ngày click
+
+Phản hồi hợp lý nhất?
+
+Lựa chọn một: Đổi ngay
+
+Lựa chọn hai: Giải thích rằng cửa sổ ảnh hưởng đến cả giao hàng, đề xuất giữ cài đặt nhất quán và thêm cột so sánh cài đặt thay vì đổi để làm đẹp số
+
+Lựa chọn ba: Từ chối và im lặng
+
+Lựa chọn bốn: Xóa dữ liệu cũ
+
+Nhịp làm việc của ếch xê kiu tiv
+
+Ghi cửa sổ và mô hình ghi nhận vào mọi báo cáo
+
+Đối chiếu đơn thật mỗi tuần
+
+Theo dõi tỷ trọng view-through
+
+Ghi mốc thay đổi nền tảng
+
+Sản phẩm bàn giao: Một bảng đối chiếu bốn tuần: mê ta vs hệ thống đơn, lệch, nguyên nhân.

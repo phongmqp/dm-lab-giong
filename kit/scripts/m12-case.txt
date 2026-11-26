@@ -1,0 +1,45 @@
+Chặng mười hai, khoảng năm mươi lăm phút
+
+Báo cáo, thử nghiệm và lên cấp
+
+Báo cáo tuần, nhật ký thử nghiệm, portfolio và phỏng vấn.
+
+Tình huống mô phỏng Capstone mô phỏng
+
+ba mươi ngày đầu tại một shop mỹ phẩm bán web cộng in bốc
+
+ba mươi triệu: Ngân sách trên tháng
+
+bốn: Tuần
+
+ba: Sản phẩm bàn giao
+
+Bối cảnh
+
+Kế hoạch do giáo trình dựng để bạn thực hành toàn bộ kiến thức. Shop bán xê rum và kem chống nắng, có website và in bốc, ngân sách mê ta ba mươi triệu trên tháng, chưa có dữ liệu đáng tin.
+
+Dữ liệu của hồ sơ
+
+Tuần một: nền móng. ót đit tài khoản, Module một, kiu ây tra king, Module hai, tính xi pi ây hoặc rô át hòa vốn, Module không, thống nhất quy ước đặt tên.
+
+Tuần hai: dựng và brief. Cấu trúc hai chiến dịch, thử nghiệm mười lăm đến hai mươi phần trăm và mở rộng, viết brief năm concept, kiểm tra nội dung, Module mười một.
+
+Tuần ba: chạy và không sửa. Giữ cấu hình, theo dõi hook hoặc xi ti a, ghi nhật ký, đối chiếu đơn thật.
+
+Tuần bốn: đọc và quyết định. Chẩn đoán theo thang phễu, tắt hoặc giữ hoặc tăng hai mươi phần trăm, batch concept thứ hai, báo cáo tuần.
+
+Phân tích
+
+Ngân sách ba mươi triệu trên tháng tương đương khoảng một triệu trên ngày. Nếu xi pi ây hòa vốn khoảng một trăm năm mươi nghìn đồng thì số đơn tối đa khoảng sáu đến bảy đơn trên ngày, tức khoảng bốn mươi lăm đơn trên tuần. Con số này gần mốc năm mươi sự kiện trên tuần nên nên chạy một đến hai nhóm, không thể chia nhỏ.
+
+Đây là phép tính minh họa với giả định bạn tự điền.
+
+Nguồn không cho biết
+
+Kế hoạch mô phỏng, cần điều chỉnh theo dữ liệu thật.
+
+Cách áp dụng
+
+Dùng làm khung kế hoạch ba mươi ngày cho dự án portfolio.
+
+Tình huống mô phỏng.

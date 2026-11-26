@@ -1,0 +1,167 @@
+Chặng năm, khoảng bốn mươi lăm phút
+
+Đối tượng và át van tịt
+
+Giới hạn cứng, tệp tùy chỉnh, loại trừ và ây bi tét đúng cách.
+
+Nói đơn giản
+
+Bạn không còn chỉ tay vào từng người cần nhắm. Bạn gửi tín hiệu, nội dung, tệp khách cũ, rồi hệ thống tìm người giống như vậy, còn bạn đặt giới hạn cứng.
+
+Ví dụ đời thường
+
+tác get ting kiểu cũ là chỉ tay vào đám đông: bạn, bạn và bạn. át van tịt giống nhờ một nhân viên nhớ mặt khách cũ rồi tìm những người giống họ. Bạn chỉ vẽ ranh giới: khu vực, độ tuổi tối thiểu, ai bị loại trừ.
+
+Nối với điều bạn đã học
+
+Phân khúc và định vị, ét ti pi, vẫn đúng. Điều đổi là targeting chuyển từ chọn nhóm bằng sở thích sang thiết kế thông điệp riêng cho từng nhóm.
+
+Tín hiệu bạn đưa vào hệ thống, và giới hạn cứng bao quanh.
+
+mê ta tìm người có hành vi giống khách đã mua.
+
+Thuật ngữ của chặng này
+
+át van tịt. Bộ công cụ tự động của mê ta: ngân sách, đối tượng, vị trí và nội dung do hệ thống tối ưu trong giới hạn bạn đặt. Ví dụ: Chiến dịch át van tịt sales bật cả ngân sách chiến dịch, đối tượng và vị trí tự động.
+
+ri tác get ting. Nhắm lại những người đã quan tâm nhưng chưa mua. Ví dụ: Khách thêm giỏ nhưng chưa thanh toán thấy quảng cáo nhắc.
+
+cri ây tiv. Phần nội dung của quảng cáo: hình, vi đê ô, chữ, ưu đãi. Ví dụ: năm vi đê ô với năm cách kể khác nhau.
+
+Câu chuyện của Mai và chị Hạnh
+
+Mai nói: Em định chọn mười lăm sở thích liên quan đến làm đẹp để nhắm cho chuẩn ạ.
+
+Chị Hạnh nói: Thử cho át van tịt chạy tệp rộng với ranh giới em đặt. Rồi để nội dung quảng cáo chọn người cho em.
+
+Mai nói: Nghĩa là chính quảng cáo là targeting ạ?
+
+Chị Hạnh nói: Gần đúng. Người da dầu sẽ dừng lại ở hook về mụn, người da khô thì không. Em viết ba persona, ba hook khác nhau.
+
+Cách tính ra con số
+
+Chi phí mỗi chuyển đổi tăng thêm, lift, khác xi pi ây thế nào?
+
+Công thức. Chuyển đổi tăng thêm bằng Chuyển đổi nhóm thấy quảng cáo trừ Chuyển đổi nhóm đối chứng. Chi phí mỗi chuyển đổi tăng thêm bằng Chi phí chia Chuyển đổi tăng thêm
+
+Đề bài. Chi phí: mười triệu đồng. Nhóm thấy quảng cáo: một trăm hai mươi đơn. Nhóm đối chứng, không thấy, quy về cùng cỡ, tám mươi đơn
+
+Đơn tăng thêm nhờ quảng cáo: một trăm hai mươi trừ tám mươi bằng bốn mươi đơn
+
+xi pi ây thông thường: mười triệu chia một trăm hai mươi bằng tám mươi ba nghìn ba trăm ba mươi ba đồng
+
+Chi phí mỗi đơn tăng thêm: mười triệu chia bốn mươi bằng hai trăm năm mươi nghìn đồng
+
+Tỷ lệ đơn thật sự do quảng cáo: bốn mươi chia một trăm hai mươi bằng ba mươi ba phẩy ba phần trăm
+
+Kết luận. xi pi ây báo cáo là tám mươi ba nghìn ba trăm ba mươi ba đồng nhưng mỗi đơn mà quảng cáo thật sự tạo thêm tốn hai trăm năm mươi nghìn đồng. Số liệu giả định để minh họa cách tính.
+
+Vì sao tính như vậy? tám mươi trong một trăm hai mươi đơn vẫn sẽ xảy ra dù không thấy quảng cáo, nên không thể tính công cho quảng cáo. Đây chính là ý nghĩa của lift trong các case eo ô em ây và Merintis. Số thật của họ không công bố đủ để tính lại.
+
+Nhắn tin với sếp
+
+Mai muốn thử tệp rộng.
+
+Bản chưa tốt
+
+Mai nhắn: Chị ơi em tắt hết targeting sở thích được không?
+
+Bản tốt
+
+Mai nhắn: Chị ơi, em đề xuất ây bi mười bốn ngày: nhóm A giữ mười lăm sở thích như hiện tại, nhóm B át van tịt tệp rộng, cùng creative, cùng ngân sách, chỉ đặt giới hạn cứng, Việt Nam, mười tám+, loại trừ khách đã mua. Tiêu chí thắng: xi pi ây thật thấp hơn và lớn hơn hoặc bằng năm mươi đơn mỗi nhóm. Nếu B thua, em quay lại A ngay. Chị cho em thử nhé?
+
+Vì sao bản tốt hơn?
+
+Có thiết kế thử rõ: chỉ đổi một thứ.
+
+Có tiêu chí thắng đặt trước khi chạy.
+
+Có phương án lùi.
+
+Vì sao bạn cần học phần này
+
+Vai trò của nhắm đối tượng đang thay đổi: mê ta ngày càng tự tìm người phù hợp, còn bạn kiểm soát các giới hạn cứng và nội dung. ếch xê kiu tiv cần biết khi nào để máy làm, khi nào đặt giới hạn, và cách kiểm chứng bằng thử nghiệm thay vì niềm tin.
+
+Sau chặng này bạn sẽ
+
+Giải thích át van tịt audience và giới hạn cứng
+
+Dựng tệp tùy chỉnh, custom audience, và loại trừ hợp lý
+
+Thiết kế một ây bi tét át van tịt với thủ công đúng cách
+
+át van tịt audience và vai trò mới của targeting
+
+Theo Nowoka, hai nghìn không trăm hai mươi sáu, át van tịt audience là mặc định, nhắm mục tiêu chi tiết hoạt động như một gợi ý cho hệ thống, còn vị trí địa lý và tuổi tối thiểu vẫn là giới hạn cứng. Squarebase bổ sung: đối tượng loại trừ và ngôn ngữ cũng có thể đặt làm giới hạn.
+
+Hệ quả: thay vì xếp chồng sở thích, hãy đầu tư vào nội dung quảng cáo để nói chuyện với từng nhóm khách, Module sáu, vì nội dung là tín hiệu giúp hệ thống biết nên đưa quảng cáo tới ai.
+
+Khi nào cần giới hạn chặt
+
+Nowoka lưu ý ngoại lệ: cửa hàng địa phương, ngành bị quản lý, và các danh mục quảng cáo đặc biệt có thể cần nhắm chặt hơn. Hãy kiểm tra quy định hiện hành trong át ma na giơ.
+
+Cửa hàng hoặc phòng khám có địa chỉ: giới hạn theo bán kính hoặc tỉnh hoặc thành mà bạn phục vụ.
+
+Giao hàng bị giới hạn: chọn khu vực có thể giao, đừng chạy cả nước nếu chỉ giao nội thành.
+
+Ngành nhạy cảm hoặc danh mục đặc biệt: làm theo yêu cầu riêng của mê ta.
+
+Ngôn ngữ: nếu nội dung chỉ có tiếng Việt, đặt ngôn ngữ để tránh lãng phí.
+
+Tệp tùy chỉnh và loại trừ
+
+Tệp tùy chỉnh phổ biến: danh sách khách hàng, dữ liệu được băm khi tải lên, người truy cập website, cần píc xồ, người tương tác với pây hoặc in tờ ra gram hoặc vi đê ô hoặc biểu mẫu. Dùng để loại trừ khách đã mua trong chiến dịch tìm khách mới, hoặc để nhắm lại người đã quan tâm.
+
+Kích thước tệp: nguồn thực hành, Modern Marketing Institute, Cometly, coi tệp dưới khoảng năm trăm nghìn là rủi ro với chiến dịch chuyển đổi, và từ khoảng một triệu trở lên là an toàn. Với retargeting, kích thước tệp phải đủ tạo khoảng năm mươi sự kiện mỗi tuần.
+
+Hai nhóm quảng cáo trùng đối tượng sẽ cạnh tranh trong cùng phiên đấu giá. Hãy kiểm tra mức chồng lấn trước khi tách nhóm.
+
+Từ persona đến nội dung, không phải đến sở thích
+
+Persona là mô tả khách điển hình, hãy chuyển nó thành góc tiếp cận trong creative: nỗi đau, bằng chứng, ưu đãi, giọng điệu. Cùng một tệp át van tịt, hai creative khác góc sẽ chạm tới hai nhóm khách khác nhau.
+
+Ví dụ. Sữa hạt: sinh viên mười chín đến hai mươi ba quan tâm giá và trend, creative ngắn, giọng vui. Nhân viên văn phòng hai mươi tám đến ba mươi lăm quan tâm sức khỏe, creative nêu thành phần và lợi ích. Cùng một chiến dịch, hai concept.
+
+Thiết kế ây bi tét át van tịt với thủ công
+
+Để biết cách nhắm nào hiệu quả với tài khoản của bạn, đừng tin tuyên bố chung.
+
+Giả thuyết: át van tịt audience cho xi pi ây thấp hơn nhắm thủ công theo sở thích.
+
+Dùng công cụ Experiments, ây bi tét, của mê ta, hoặc hai nhóm chạy song song cùng creative, cùng ngân sách, cùng thời gian.
+
+Chạy ít nhất bảy ngày, tốt hơn mười bốn ngày, Toco, Enrich Labs.
+
+Chỉ đổi một biến, đối tượng. Không đổi gì khác trong khi chạy.
+
+Đánh giá theo xi pi ây hoặc rô át đã đối chiếu với đơn thật, ghi lại khoảng tin cậy và kết luận.
+
+Chọn cách nhắm theo tình huống
+
+Tình huống: Bán toàn quốc, sản phẩm đại chúng. Cách nhắm: át van tịt audience, giới hạn tuổi tối thiểu và vị trí. Lưu ý: Đầu tư vào đa dạng creative. Độ tin cậy:
+
+Tình huống: Cửa hàng hoặc phòng khám tại một thành phố. Cách nhắm: Giới hạn bán kính hoặc tỉnh hoặc thành. Lưu ý: Đo đơn đến cửa hàng. Độ tin cậy:
+
+Tình huống: Muốn tìm khách mới. Cách nhắm: Loại trừ khách đã mua. Lưu ý: Cập nhật tệp khách định kỳ. Độ tin cậy:
+
+Tình huống: Nhắm lại người quan tâm. Cách nhắm: Tệp truy cập web hoặc tương tác. Lưu ý: Đủ lớn để có năm mươi sự kiện trên tuần. Độ tin cậy:
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: Nhắm càng hẹp càng chính xác.
+
+Thực tế: Hẹp quá có thể khiến xi pi em tăng và hệ thống ít được thử. Hãy so sánh bằng ây bi tét, đừng đoán.
+
+Nhiều người nghĩ: Loại trừ khách cũ không cần thiết.
+
+Thực tế: Nếu mục tiêu là khách mới thì nên loại trừ, để không trả tiền nhắc người đã mua. Nếu mục tiêu là bán lại thì ngược lại.
+
+Chị Hạnh dặn: Em đặt ranh giới, nội dung chọn người.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Viết ba persona cho một sản phẩm, mỗi persona có một hook mở đầu khác nhau. húc nào bạn sẽ thử trước và vì sao?
+
+Thử trong mười phút
+
+Viết ba persona cho một sản phẩm. Với mỗi persona viết một hook mở đầu khác nhau, kèm lý do họ sẽ dừng lại.

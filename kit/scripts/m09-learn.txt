@@ -1,0 +1,169 @@
+Chặng chín, khoảng sáu mươi phút
+
+Attribution và đối chiếu số liệu
+
+Cửa sổ ghi nhận hai nghìn không trăm hai mươi sáu, mê ta so với đơn thật, em i a.
+
+Nói đơn giản
+
+Cùng một đơn hàng có thể được ba hệ thống cùng nhận công. Bạn cần biết mỗi hệ thống đếm theo luật nào để không bị đánh lừa bởi con số đẹp.
+
+Ví dụ đời thường
+
+Ba nhân chứng cùng khai tôi thấy tên trộm: mê ta, gu gồ và sàn thương mại điện tử cùng nhận công cho một đơn hàng. Bạn là thám tử, phải đối chiếu với camera chính, tức là đơn thật trong hệ thống bán hàng.
+
+Nối với điều bạn đã học
+
+Giống đo hiệu quả đa kênh: chấm điểm cú click cuối cùng hay cả hành trình? Ở đây các cửa sổ ghi nhận là luật chơi.
+
+Cùng một lượt mua nhưng mỗi cửa sổ ghi nhận có cách tính khác nhau.
+
+Thuật ngữ của chặng này
+
+Attribution, ghi nhận. Luật mê ta dùng để quyết định một chuyển đổi thuộc về quảng cáo nào, theo cửa sổ thời gian. Ví dụ: bảy ngày sau click, một ngày sau xem quảng cáo.
+
+em i a. Tổng doanh thu chia tổng chi phí marketing, không phụ thuộc cách mỗi nền tảng ghi nhận công. Ví dụ: Doanh thu năm trăm triệu, chi marketing một trăm triệu thì em i a là năm.
+
+iu ti em. Các tham số gắn vào đường link để biết khách đến từ chiến dịch nào. Ví dụ: utm source bằng facebook và utm medium bằng paid social
+
+Câu chuyện của Mai và chị Hạnh
+
+Chi tiêu ba mươi triệu. mê ta báo một trăm hai mươi đơn. Hệ thống bán hàng ghi bảy mươi tám đơn thật, đã trừ hủy hoặc hoàn.
+
+Mai nói: xi pi ây theo mê ta là hai trăm năm mươi nghìn đồng, tốt hơn mục tiêu nhiều ạ.
+
+Chị Hạnh nói: xi pi ây thật là ba mươi triệu chia bảy mươi tám xấp xỉ ba trăm tám mươi lăm nghìn đồng. Lệch khoảng ba mươi lăm phần trăm.
+
+Mai nói: Vậy là mê ta đếm nhiều hơn khoảng một nửa so với thật.
+
+Chị Hạnh nói: Đúng. Ngưỡng tham khảo: lệch trên ba mươi phần trăm trong ba ngày là chuông báo. Kiểm tra i ven ai đi, đơn hủy và cửa sổ ghi nhận.
+
+Cách tính ra con số
+
+mê ta báo một trăm hai mươi đơn, thực tế bảy mươi tám đơn: xi pi ây thật là bao nhiêu?
+
+Công thức. xi pi ây bằng Chi phí chia Số đơn. Lệch so với xi pi ây thật bằng, xi pi ây thật trừ xi pi ây mê ta, chia xi pi ây thật. em i a bằng Tổng doanh thu chia Tổng chi marketing
+
+Đề bài. Chi phí mê ta: ba mươi triệu đồng. Đơn theo mê ta: một trăm hai mươi. Đơn thật: bảy mươi tám
+
+xi pi ây theo mê ta: ba mươi triệu chia một trăm hai mươi bằng hai trăm năm mươi nghìn đồng
+
+xi pi ây thật: ba mươi triệu chia bảy mươi tám bằng ba trăm tám mươi tư nghìn sáu trăm mười lăm đồng
+
+Lệch so với xi pi ây thật: ba trăm tám mươi tư nghìn sáu trăm mười lăm trừ hai trăm năm mươi nghìn, chia ba trăm tám mươi tư nghìn sáu trăm mười lăm bằng ba mươi lăm phần trăm
+
+mê ta đếm nhiều hơn đơn thật: bốn mươi hai chia bảy mươi tám bằng năm mươi tư phần trăm
+
+em i a, ví dụ doanh thu năm trăm triệu, chi marketing một trăm triệu, năm trăm triệu chia một trăm triệu bằng năm
+
+Kết luận. xi pi ây thật ba trăm tám mươi tư nghìn sáu trăm mười lăm đồng cao hơn xi pi ây theo mê ta hai trăm năm mươi nghìn đồng. Lệch ba mươi lăm phần trăm vượt ngưỡng cảnh báo tham khảo ba mươi phần trăm.
+
+Vì sao tính như vậy? Cùng một chênh lệch nhưng có hai cách nói: xi pi ây lệch ba mươi lăm phần trăm, mẫu số là xi pi ây thật, và mê ta đếm nhiều hơn năm mươi tư phần trăm, mẫu số là số đơn thật. Luôn nói rõ mẫu số. em i a không phụ thuộc vào cách mỗi nền tảng ghi nhận công nên làm điểm tựa.
+
+Nhắn tin với sếp
+
+Sếp hỏi xi pi ây tuần này bao nhiêu?
+
+Bản chưa tốt
+
+Mai nhắn: Dạ xi pi ây hai trăm năm mươi nghìn đồng chị ạ.
+
+Bản tốt
+
+Mai nhắn: Dạ xi pi ây theo mê ta hai trăm năm mươi nghìn đồng, nhưng theo đơn thật là ba trăm tám mươi tư nghìn sáu trăm mười lăm đồng, ba mươi triệu chia bảy mươi tám đơn. mê ta đang đếm nhiều hơn năm mươi tư phần trăm, vượt ngưỡng ba mươi phần trăm, em đang kiểm tra i ven ai đi và đơn hủy. Chị cứ dùng ba trăm tám mươi tư nghìn sáu trăm mười lăm đồng để ra quyết định, em báo lại khi tìm ra nguyên nhân ạ.
+
+Vì sao bản tốt hơn?
+
+Trả lời trước bằng số đúng, số thật.
+
+Nói rõ vì sao có số thứ hai.
+
+Hứa thời điểm báo lại.
+
+Vì sao bạn cần học phần này
+
+Con số trong át ma na giơ là một cách đếm, không phải sự thật tuyệt đối. ếch xê kiu tiv giỏi biết mình đang đếm theo cửa sổ nào, vì sao khác với hệ thống đơn hàng, và dùng nguồn nào để ra quyết định gì.
+
+Sau chặng này bạn sẽ
+
+Đọc đúng các cửa sổ ghi nhận và thay đổi năm hai nghìn không trăm hai mươi sáu
+
+Đối chiếu số liệu mê ta với đơn thật và phát hiện lệch
+
+Báo cáo kèm cửa sổ và nguồn dữ liệu rõ ràng
+
+Các cửa sổ ghi nhận hiện nay
+
+Theo Jon Loomer, hai nghìn không trăm hai mươi sáu, các cửa sổ gồm: bảy ngày sau click, mặc định, có thể đổi sang một ngày, một ngày sau click, một ngày engage-through, sau tương tác không phải click liên kết, gồm cả engaged-view, và một ngày view-through, sau khi thấy quảng cáo, không click. Cửa sổ hai mươi tám ngày không còn là tùy chọn tối ưu nhưng vẫn xem được qua Compare Attribution Settings.
+
+Hai thay đổi bạn cần biết
+
+Tháng ba hoặc hai nghìn không trăm hai mươi sáu: mê ta thu hẹp ghi nhận theo click, chỉ tính chuyển đổi sau click vào liên kết quảng cáo; click ngoài liên kết chuyển sang nhóm engage-through, Jon Loomer. Ngày ngày mười hai tháng một năm hai nghìn không trăm hai mươi sáu: Insights ây pi ai ngừng trả về bảy ngày view và hai mươi tám ngày view, Enrich Labs, Supermetrics. đát bo bên thứ ba có thể lệch so với trước, nên hãy ghi chú mốc thay đổi trong báo cáo.
+
+Cài đặt ảnh hưởng cả giao hàng và báo cáo
+
+Cửa sổ bạn chọn không chỉ đổi cách báo cáo mà còn đổi cách mê ta học và phân phối. Mô hình Standard tối ưu theo cửa sổ bạn chọn; mô hình Incremental ước tính chuyển đổi do quảng cáo gây ra và không cho sửa cửa sổ. Tùy chọn đếm mọi chuyển đổi hay chuyển đổi đầu tiên cũng làm số liệu và cách mê ta tối ưu khác nhau, Jon Loomer.
+
+Vì sao mê ta, gi ây bốn và hệ thống đơn không khớp
+
+Mỗi hệ thống có độ lệch riêng. Theo Enrich Labs: mê ta có xu hướng ghi công quá mức cho view-through; gi ây bốn thấy ít hoạt động từ các nền tảng khép kín và bị ảnh hưởng bởi sự đồng ý cookie; xi a em chậm và gắn iu ti em chưa đầy đủ. Ở Việt Nam thêm: đơn xi ô đi bị hủy hoặc hoàn sau khi sự kiện Purchase đã gửi.
+
+Quy trình đối chiếu hằng tuần
+
+Nguyên tắc của Enrich Labs: chọn một hệ thống làm chuẩn cho mỗi loại quyết định. mê ta, với cửa sổ bạn tin, cho việc tối ưu nội bộ kênh; dữ liệu bên thứ nhất và em i a cho việc phân bổ giữa các kênh; thử nghiệm đối chứng cho khẳng định nguyên nhân, kết quả.
+
+Ghi cửa sổ và mô hình ghi nhận đang dùng trong báo cáo.
+
+Lấy số đơn thật theo cùng khoảng thời gian từ hệ thống bán hàng, đã trừ hủy hoặc hoàn nếu có.
+
+Tính lệch giữa xi pi ây mê ta và xi pi ây thật. Cảnh báo nếu lệch trên ba mươi phần trăm trong ba ngày, nguồn Enrich Labs.
+
+Xem tỷ trọng view-through. Nếu một ngày view chiếm từ bốn mươi phần trăm trở lên, rô át đang nghiêng về lượt hiển thị.
+
+Thay đổi một biến mỗi lần khi chẩn đoán, cửa sổ hoặc mô hình, không đổi cả hai.
+
+Với chi tiêu lớn, thêm thử nghiệm đối chứng, geo hoặc conversion lift.
+
+em i a và xi ây xi tổng hợp
+
+em i a, Marketing Efficiency Ratio, bằng tổng doanh thu chia tổng chi phí marketing, không phụ thuộc cách phân bổ của từng nền tảng. Dùng để kiểm tra tổng thể khi các nền tảng đều tự nhận công.
+
+Sai lầm thường gặp
+
+Đổi cửa sổ ghi nhận để rô át trông đẹp hơn rồi báo cáo như thành tích.
+
+So sánh số của mê ta với gi ây bốn mà không nêu cửa sổ.
+
+Quên trừ đơn xi ô đi hủy hoặc hoàn khi tính rô át thật.
+
+Cài đặt ghi nhận gợi ý theo loại hình, Enrich Labs,
+
+Loại hình: Thương mại điện tử. Cài đặt khởi đầu: bảy ngày click cộng một ngày view. Ghi chú: Chuyển sang chỉ bảy ngày click nếu rô át mê ta cao hơn nhiều so với Shopify hoặc hệ thống đơn
+
+Loại hình: Thu lead. Cài đặt khởi đầu: một ngày click. Ghi chú: Tránh view-through kéo thêm lead vốn đến từ i meo hoặc tìm kiếm
+
+Loại hình: ri tác get ting. Cài đặt khởi đầu: một ngày click. Ghi chú: Người đã biết thương hiệu, cửa sổ dài dễ tính trùng
+
+Loại hình: BhaiB giá trị cao. Cài đặt khởi đầu: bảy ngày click. Ghi chú: Sự kiện gửi form chưa phải đơn thắng, theo dõi trong xi a em
+
+Loại hình: Thương hiệu hoặc reach. Cài đặt khởi đầu: Không ép cửa sổ hiệu suất. Ghi chú: Dùng brand lift hoặc em i a
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: Số trong át ma na giơ là sự thật.
+
+Thực tế: Đó là số mê ta ghi nhận theo luật của họ, gồm cả lượt xem quảng cáo. Sự thật nằm ở đơn đã thanh toán.
+
+Nhiều người nghĩ: Đối chiếu một lần là xong.
+
+Thực tế: Cấu hình đổi, mùa vụ đổi, độ lệch cũng đổi. Hãy đối chiếu hằng tuần.
+
+Chị Hạnh dặn: mê ta là nhân chứng, đơn thật là bằng chứng.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Lấy số đơn bảy ngày của một dự án. So số mê ta báo với số đơn thật và tính độ lệch phần trăm.
+
+Thử trong mười phút
+
+Lấy số đơn bảy ngày từ hệ thống bán hàng, so với số đơn mê ta báo, tính độ lệch bằng máy tính ở tab Thực chiến.

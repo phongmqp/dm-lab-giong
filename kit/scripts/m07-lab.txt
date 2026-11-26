@@ -1,0 +1,41 @@
+Chặng bảy, khoảng bảy mươi lăm phút
+
+cờ lích tu mét sịt và lít ở Việt Nam
+
+Đo phễu hộp thư đến đơn chốt, tối ưu lead, kịch bản chat.
+
+Tình huống ra quyết định
+
+Tình huống: Chiến dịch nào thắng?
+
+Tình huống mô phỏng, tính toán. Hai chiến dịch cùng tuần: A, tối ưu cuộc trò chuyện, một nghìn cuộc, hai mươi nghìn đồng hoặc cuộc, mười lăm phần trăm để lại số điện thoại, hai mươi phần trăm lead chốt. B, tối ưu lead, bảy trăm cuộc, hai mươi tám nghìn đồng hoặc cuộc, ba mươi lăm phần trăm để lại số điện thoại, hai mươi hai phần trăm chốt.
+
+A: chi phí: hai mươi triệu
+
+A: lead hoặc đơn: một trăm năm mươi hoặc ba mươi
+
+B: chi phí: mười chín phẩy sáu triệu
+
+B: lead hoặc đơn: hai trăm bốn mươi lăm hoặc năm mươi ba phẩy chín
+
+Chiến dịch nào có chi phí mỗi đơn thấp hơn?
+
+Lựa chọn một: A vì chi phí tin nhắn thấp hơn
+
+Lựa chọn hai: B với khoảng ba trăm sáu mươi tư nghìn đồng trên đơn
+
+Lựa chọn ba: Bằng nhau
+
+Lựa chọn bốn: Không tính được
+
+Nhịp làm việc của ếch xê kiu tiv
+
+Xem phễu hộp thư theo chiến dịch mỗi ngày
+
+Đo thời gian phản hồi đầu tiên
+
+Gán nhãn lead và đối chiếu với đơn thật hằng tuần
+
+Gửi sự kiện lead trên đơn về mê ta nếu hệ thống hỗ trợ
+
+Sản phẩm bàn giao: Một báo cáo phễu hộp thư hai chiến dịch, có chi phí mỗi tầng.

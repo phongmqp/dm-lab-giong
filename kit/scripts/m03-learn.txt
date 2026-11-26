@@ -1,0 +1,185 @@
+Chặng ba, khoảng sáu mươi phút
+
+Mục tiêu và cấu trúc chiến dịch
+
+ây bi ô, át van tịt, đặt tên, iu ti em và chéc lít trước khi bật.
+
+Nói đơn giản
+
+Chiến dịch trả lời để làm gì, nhóm quảng cáo trả lời cho ai và bao nhiêu tiền, quảng cáo trả lời nói gì.
+
+Ví dụ đời thường
+
+Một chuyến đi: chiến dịch là điểm đến, mua hàng hay xin số điện thoại, nhóm quảng cáo là tuyến đường và tiền xăng, ai, ở đâu, bao nhiêu tiền, quảng cáo là chiếc xe và lời chào, nói gì với khách.
+
+Nối với điều bạn đã học
+
+Giống một brief: mục tiêu, rồi đối tượng và mi đi a, rồi creative. Điểm mới là bạn phải đặt tên và đánh dấu để mọi con số về sau truy được nguồn gốc.
+
+Ba tầng của tài khoản: chiến dịch ở trên, nhóm quảng cáo ở giữa, quảng cáo ở dưới. Xoay để nhìn từ nhiều phía.
+
+Các thành phần của một quảng cáo trên bảng tin, hình minh họa, không phải giao diện thật.
+
+Ba tầng: Chiến dịch, Nhóm quảng cáo, Quảng cáo.
+
+Thuật ngữ của chặng này
+
+Chiến dịch, Campaign. Tầng trên cùng, chứa mục tiêu của quảng cáo. Ví dụ: Chiến dịch Mua hàng tháng mười hai.
+
+Nhóm quảng cáo, Ad set. Tầng giữa, chứa đối tượng, vị trí hiển thị, lịch và ngân sách, nếu dùng ngân sách ở nhóm. Ví dụ: Nhóm Toàn quốc mười tám đến bốn mươi lăm, át van tịt.
+
+Quảng cáo, Ad. Tầng dưới cùng, chứa hình hoặc vi đê ô, văn bản, tiêu đề, nút kêu gọi và link. Ví dụ: vi đê ô mười lăm giây với tiêu đề Giảm ba mươi phần trăm hôm nay.
+
+Mục tiêu, Objective. Điều bạn muốn quảng cáo đạt được, như xên, Leads, tráp phích, ờ quơ nét. Ví dụ: Bán qua website chọn xên, tối ưu theo Purchase.
+
+Vị trí hiển thị, Placement. Nơi quảng cáo xuất hiện: bảng tin, ri ồ, sờ tô ri, in tờ ra gram và nhiều nơi khác. Ví dụ: vi đê ô dọc chín trên mười sáu hợp ri ồ và sờ tô ri.
+
+ây bi ô. Ngân sách đặt ở từng nhóm quảng cáo để bạn kiểm soát từng nhóm. Ví dụ: Thử ba concept, mỗi concept một nhóm cùng ngân sách.
+
+Ngân sách chiến dịch, xi bi ô. Ngân sách đặt ở cấp chiến dịch để mê ta tự chia giữa các nhóm. Trong át van tịt gọi là ngân sách chiến dịch át van tịt. Ví dụ: Chiến dịch một triệu trên ngày, mê ta chia theo hiệu quả.
+
+át van tịt. Bộ công cụ tự động của mê ta: ngân sách, đối tượng, vị trí và nội dung do hệ thống tối ưu trong giới hạn bạn đặt. Ví dụ: Chiến dịch át van tịt sales bật cả ngân sách chiến dịch, đối tượng và vị trí tự động.
+
+iu ti em. Các tham số gắn vào đường link để biết khách đến từ chiến dịch nào. Ví dụ: utm source bằng facebook và utm medium bằng paid social
+
+Câu chuyện của Mai và chị Hạnh
+
+Mai nói: Em tạo chín chiến dịch tên tét một, tét hai… để thử cho nhanh ạ.
+
+Chị Hạnh nói: Thứ Sáu tuần sau em có nhớ tét sáu là cái gì không? Báo cáo và iu ti em đều dựa vào cái tên.
+
+Mai nói: Dạ… chắc không ạ.
+
+Chị Hạnh nói: Đặt theo mẫu: Mục tiêu Tệp con sép Ngày. Và gom bớt, chín chiến dịch chia nhỏ dữ liệu ra thì mê ta học rất chậm.
+
+Cách tính ra con số
+
+Vì sao quá nhiều quảng cáo làm ngân sách loãng
+
+Công thức. Số quảng cáo bằng Số tệp nhân Số concept nhân Số định dạng. Ngân sách mỗi quảng cáo bằng Ngân sách ngày chia Số quảng cáo
+
+Đề bài. Tệp: ba. con sép: bốn. Định dạng: hai, ảnh, vi đê ô. Ngân sách ngày: sáu trăm nghìn đồng. xi pi ây mục tiêu: một trăm mười sáu nghìn tám trăm bảy mươi lăm đồng
+
+Số quảng cáo: ba nhân bốn nhân hai bằng hai mươi tư
+
+Ngân sách mỗi quảng cáo mỗi ngày: sáu trăm nghìn chia hai mươi tư bằng hai mươi lăm nghìn đồng
+
+Số ngày để một quảng cáo tiêu đủ tiền cho một đơn kỳ vọng: một trăm mười sáu nghìn tám trăm bảy mươi lăm chia hai mươi lăm nghìn bằng bốn phẩy bảy ngày
+
+Kết luận. Mỗi quảng cáo cần gần năm ngày chỉ để có một đơn kỳ vọng: dữ liệu quá ít để so sánh.
+
+Vì sao tính như vậy? Ba lựa chọn nhân với nhau nên số quảng cáo tăng rất nhanh. Hãy bắt đầu bằng ít tổ hợp, ví dụ ba concept trong một nhóm, và thêm dần khi có ngân sách.
+
+Nhắn tin với sếp
+
+Tài khoản có chín chiến dịch tét.
+
+Bản chưa tốt
+
+Mai nhắn: Chị ơi em thấy cấu trúc rối quá, em sửa nhé.
+
+Bản tốt
+
+Mai nhắn: Chị ơi, tài khoản đang có chín chiến dịch tên tét một đến chín, ngân sách sáu trăm nghìn đồng chia đều nên mỗi chiến dịch xấp xỉ sáu mươi bảy nghìn đồng trên ngày. Em đề xuất gom về một chiến dịch xên, một nhóm át van tịt broad, bốn concept, đặt tên, xên, brót, con sép, Ngày. Em tạo mới song song chứ không tắt cái cũ ngay, sau bảy ngày so xi pi ây rồi mới tắt. Chị đồng ý em làm từ thứ Hai ạ?
+
+Vì sao bản tốt hơn?
+
+Mô tả vấn đề bằng số, sáu mươi bảy nghìn đồng trên ngày mỗi chiến dịch.
+
+Đề xuất kèm cách làm an toàn: chạy song song.
+
+Có mốc đánh giá, bảy ngày.
+
+Vì sao bạn cần học phần này
+
+Cấu trúc chiến dịch quyết định ngân sách có được gom đủ dữ liệu để học hay bị xé nhỏ. Cấu trúc đơn giản, đặt tên rõ và đo đúng giúp mọi quyết định sau này nhanh và chính xác.
+
+Sau chặng này bạn sẽ
+
+Chọn đúng mục tiêu và vị trí chuyển đổi cho từng loại kinh doanh
+
+Chọn giữa ây bi ô và ngân sách chiến dịch át van tịt, biết khi nào dùng cái nào
+
+Dựng quy ước đặt tên, iu ti em và chéc lít trước khi chạy
+
+Chọn mục tiêu: càng gần doanh thu càng tốt
+
+mê ta có sáu nhóm mục tiêu: ờ quơ nét, tráp phích, en ghêi giơ mần, Leads, App promotion, xên. Nguyên tắc: chọn mục tiêu và sự kiện tối ưu gần nhất với kết quả kinh doanh mà bạn đo được đủ nhiều, vì mê ta tối ưu đúng theo sự kiện bạn chọn.
+
+Bán trên website: xên với sự kiện Purchase.
+
+Bán qua hộp thư: xên hoặc Leads hoặc en ghêi giơ mần với điểm đến mét sen giơ hoặc in tờ ra gram, tối ưu theo chuyển đổi hoặc lead nếu có thể, Module bảy.
+
+Thu thông tin khách: Leads với biểu mẫu tức thì hoặc tin nhắn.
+
+Chỉ cần lượt xem vi đê ô hay nhận biết: ờ quơ nét hoặc en ghêi giơ mần, đừng kỳ vọng ra đơn.
+
+Sai lầm thường gặp
+
+Chạy mục tiêu tráp phích rồi trách quảng cáo không ra đơn.
+
+Chọn Purchase khi shop chỉ có ba đơn một tuần, xem Module bốn.
+
+Campaign, Ad set, Ad: vai trò từng tầng
+
+Chiến dịch chứa mục tiêu, và ngân sách nếu dùng ngân sách chiến dịch. Nhóm quảng cáo chứa đối tượng, vị trí hiển thị, lịch, chi phí. Quảng cáo chứa nội dung, hình hoặc vi đê ô, văn bản, nút kêu gọi, link.
+
+Hiện tại quảng cáo át van tịt là mặc định cho xên, Leads, App; át van tịt audience cũng là mặc định, và nhắm mục tiêu chi tiết hoạt động như gợi ý. Vị trí địa lý và tuổi tối thiểu vẫn là giới hạn cứng, Nowoka, hai nghìn không trăm hai mươi sáu.
+
+ây bi ô hay ngân sách chiến dịch, xi bi ô hoặc át van tịt?
+
+Các nguồn không thống nhất, và bạn nên biết cả hai quan điểm. Lebesgue ưu tiên ngân sách ở cấp nhóm quảng cáo, ây bi ô, để kiểm soát, trái với gợi ý của mê ta dùng ngân sách chiến dịch. Toco Marketing mô tả ây bi ô phù hợp để thử concept lớn với ngân sách đều nhau, còn ngân sách chiến dịch phù hợp khi mở rộng.
+
+Gợi ý của giáo trình: ây bi ô cho chiến dịch thử nghiệm, mỗi nhóm một concept, ngân sách bằng nhau, ngân sách chiến dịch cho chiến dịch mở rộng với hai đến ba nhóm quảng cáo.
+
+át van tịt sales: ba đòn bẩy tự động
+
+Theo Squarebase: chiến dịch được gọi là át van tịt sales khi bật đủ ba đòn bẩy: ngân sách chiến dịch, át van tịt audience, hoặc nhắm mục tiêu tối thiểu, không giới hạn vị trí hiển thị. Bạn vẫn chọn mục tiêu, sự kiện chuyển đổi, ngân sách, quốc gia, quảng cáo và có thể đặt giới hạn cứng, vị trí, tuổi tối thiểu, đối tượng loại trừ, ngôn ngữ.
+
+Bạn nên theo dõi mức chi cho khách cũ so với khách mới để không che giấu chi phí thu hút khách mới.
+
+Ba mẫu cấu trúc theo quy mô
+
+Số lượng nhóm quảng cáo phụ thuộc vào số sự kiện bạn có thể gom, Module bốn, không phụ thuộc vào ý thích.
+
+Mẫu một, Khởi đầu: một chiến dịch xên, một đến hai nhóm quảng cáo, ba đến năm creative khác nhau mỗi nhóm.
+
+Mẫu hai, Thử và mở rộng: chiến dịch thử nghiệm dùng khoảng mười đến hai mươi phần trăm ngân sách mê ta, Squarebase, Toco, chiến dịch mở rộng nhận phần còn lại; creative thắng được chuyển bằng post ai đi.
+
+Mẫu ba, Đầy đủ phễu: thêm chiến dịch retargeting riêng chỉ khi có đủ lưu lượng và lý do khác biệt, ưu đãi, loại trừ, Nowoka.
+
+Quy ước đặt tên và iu ti em
+
+Tên rõ ràng giúp báo cáo nhanh và tránh nhầm. Mẫu gợi ý: chiến dịch vi en ét ây eo i ét, sản phẩm, mục tiêu phụ, tháng, nhóm, đối tượng, vị trí, quảng cáo, concept, hook, định dạng, v, số.
+
+iu ti em gợi ý: utm source bằng facebook và utm medium bằng paid social và utm campaign bằng, campaign.name, và utm content bằng, ad.name. mê ta hỗ trợ tham số động trong iu a eo, hãy kiểm tra trong át ma na giơ.
+
+Chọn mục tiêu theo mô hình bán hàng
+
+Mô hình: Website bán lẻ. Mục tiêu gợi ý: xên. Sự kiện tối ưu: Purchase, hoặc ây ti xi nếu quá ít đơn. Lưu ý: Cần píc xồ cộng ca pi chuẩn
+
+Mô hình: Bán qua hộp thư. Mục tiêu gợi ý: xên hoặc Leads hoặc en ghêi giơ mần cộng mét sen giơ. Sự kiện tối ưu: Chuyển đổi hoặc lead nếu có. Lưu ý: Cần gửi tín hiệu từ xi a em trên chatbot
+
+Mô hình: Spa hoặc phòng khám. Mục tiêu gợi ý: Leads, tin nhắn hoặc form. Sự kiện tối ưu: lít đủ điều kiện. Lưu ý: Đo tỷ lệ đến cửa hàng
+
+Mô hình: Bán trên sàn. Mục tiêu gợi ý: tráp phích hoặc xên. Sự kiện tối ưu: lan đinh pết view hoặc click. Lưu ý: píc xồ không thấy đơn trên sàn, dùng dữ liệu sàn để đối chiếu
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: Càng nhiều chiến dịch càng thử được nhiều.
+
+Thực tế: Chia nhỏ ngân sách làm mỗi nhóm có quá ít sự kiện để học. Thử nhiều ý tưởng trong cùng cấu trúc, đừng nhân bản chiến dịch.
+
+Nhiều người nghĩ: Tên đặt sao cũng được.
+
+Thực tế: Tên và iu ti em là cách bạn truy lại số này của quảng cáo nào sau vài tháng.
+
+Chị Hạnh dặn: Đặt tên hôm nay cho người đọc báo cáo sau ba tháng, người đó thường là chính em.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Đặt tên một chiến dịch, một nhóm và hai quảng cáo theo mẫu. Người khác có đoán được nội dung chỉ từ tên không?
+
+Thử trong mười phút
+
+Vẽ trên giấy cấu trúc chiến dịch cho một shop bạn chọn, đặt tên theo quy ước ở bài, rồi đối chiếu với chéc lít trước khi bật.

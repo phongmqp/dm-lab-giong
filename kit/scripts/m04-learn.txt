@@ -1,0 +1,187 @@
+Chặng bốn, khoảng sáu mươi phút
+
+Ngân sách, learning phase và mở rộng
+
+Tính ngân sách từ xi pi ây, tránh reset học, lộ trình tăng an toàn.
+
+Nói đơn giản
+
+mê ta cần đủ mẫu thử để học ai nên thấy quảng cáo. Chia tiền quá nhỏ cho quá nhiều nhóm thì mỗi nhóm chỉ có vài kết quả, không đủ để học.
+
+Ví dụ đời thường
+
+Giai đoạn học giống nhân viên mới: phải làm đủ số ca mới thạo việc. Cứ đổi việc hoặc đổi chỗ liên tục thì họ phải học lại từ đầu.
+
+Nối với điều bạn đã học
+
+Giống cỡ mẫu trong một thử nghiệm: mẫu nhỏ cho kết luận nhiễu. Ở đây, ít sự kiện làm thuật toán nhiễu theo.
+
+Tăng gấp đôi một lần so với tăng hai mươi phần trăm mỗi ba đến năm ngày: bước nhỏ giữ cho hệ thống ổn định, quy ước thực hành.
+
+Cùng ngân sách, gom lại thì kịp học; chia nhỏ thì không.
+
+Ví dụ sáu trăm nghìn đồng trên ngày: sáu nhóm nhỏ so với một nhóm, kéo để xoay.
+
+Tăng từng bước hai mươi phần trăm thay vì nhảy gấp đôi, số minh họa.
+
+Thuật ngữ của chặng này
+
+Giai đoạn học, lơ ning phết. Giai đoạn đầu mê ta thử để biết ai phù hợp. Cần khoảng năm mươi sự kiện tối ưu trong bảy ngày mỗi nhóm để thoát khỏi, quy ước dẫn từ mê ta. Ví dụ: Chỉnh sửa đáng kể sẽ làm giai đoạn học chạy lại.
+
+lơ ning lim mịt. Trạng thái nhóm khó thoát giai đoạn học vì ít sự kiện. Quảng cáo vẫn chạy nhưng thuật toán có ít dữ liệu. Ví dụ: Ngân sách thấp và quá nhiều nhóm thường dẫn tới trạng thái này.
+
+xi pi ây. Chi phí cho mỗi kết quả, đơn hàng, lead. Là chỉ số quyết định lãi hay lỗ. Ví dụ: Chi hai mươi triệu cho một trăm mười đơn thì xi pi ây khoảng một trăm tám mươi hai nghìn đồng.
+
+ây bi ô. Ngân sách đặt ở từng nhóm quảng cáo để bạn kiểm soát từng nhóm. Ví dụ: Thử ba concept, mỗi concept một nhóm cùng ngân sách.
+
+Ngân sách chiến dịch, xi bi ô. Ngân sách đặt ở cấp chiến dịch để mê ta tự chia giữa các nhóm. Trong át van tịt gọi là ngân sách chiến dịch át van tịt. Ví dụ: Chiến dịch một triệu trên ngày, mê ta chia theo hiệu quả.
+
+Câu chuyện của Mai và chị Hạnh
+
+xi pi ây mục tiêu của Lúa Skin khoảng một trăm mười bảy nghìn đồng. Ngân sách hiện tại sáu trăm nghìn đồng trên ngày.
+
+Mai nói: Em chia sáu nhóm, mỗi nhóm một trăm nghìn đồng trên ngày cho mỗi tệp khác nhau ạ.
+
+Chị Hạnh nói: Mỗi nhóm được chừng một trăm nghìn chia một trăm mười bảy nghìn nhân bảy xấp xỉ sáu sự kiện một tuần. mê ta cần khoảng năm mươi để thoát giai đoạn học.
+
+Mai nói: Vậy gom lại một nhóm sáu trăm nghìn đồng ạ?
+
+Chị Hạnh nói: Còn xấp xỉ ba mươi sáu sự kiện, vẫn thiếu nhưng gần hơn nhiều. Muốn đủ thì cần khoảng tám trăm ba mươi lăm nghìn đồng trên ngày, hoặc tối ưu sự kiện ở tầng trên như Thêm giỏ hàng.
+
+Cách tính ra con số
+
+Mỗi nhóm được bao nhiêu sự kiện một tuần?
+
+Công thức. Sự kiện trên tuần trên nhóm bằng Ngân sách ngày của nhóm nhân bảy chia xi pi ây
+
+Đề bài. xi pi ây mục tiêu: một trăm mười sáu nghìn tám trăm bảy mươi lăm đồng. Phương án một: sáu nhóm nhân một trăm nghìn đồng trên ngày. Phương án hai: một nhóm nhân sáu trăm nghìn đồng trên ngày. Mốc để thoát giai đoạn học: xấp xỉ năm mươi sự kiện hoặc bảy ngày
+
+Phương án một: mỗi nhóm: một trăm nghìn nhân bảy chia một trăm mười sáu nghìn tám trăm bảy mươi lăm bằng sáu sự kiện
+
+Phương án hai: một nhóm: sáu trăm nghìn nhân bảy chia một trăm mười sáu nghìn tám trăm bảy mươi lăm bằng ba mươi lăm phẩy chín sự kiện
+
+Ngân sách tối thiểu mỗi nhóm để đạt năm mươi sự kiện: một trăm mười sáu nghìn tám trăm bảy mươi lăm nhân năm mươi chia bảy bằng tám trăm ba mươi tư nghìn tám trăm hai mươi mốt đồng
+
+Mốc thận trọng mười nhân xi pi ây mỗi ngày: mười nhân một trăm mười sáu nghìn tám trăm bảy mươi lăm bằng một triệu một trăm sáu mươi tám nghìn bảy trăm năm mươi đồng
+
+Kết luận. Chia sáu nhóm thì mỗi nhóm chỉ xấp xỉ sáu sự kiện. Gom một nhóm lên xấp xỉ ba mươi sáu, gần mốc hơn nhưng vẫn thiếu: cần khoảng tám trăm ba mươi tư nghìn tám trăm hai mươi mốt đồng trên ngày hoặc chọn sự kiện tối ưu ở tầng trên, ví dụ Thêm giỏ hàng.
+
+Vì sao tính như vậy? Mỗi sự kiện tốn trung bình một xi pi ây, nên số sự kiện bằng tiền chia xi pi ây. Nhân bảy để ra con số theo tuần, vì mốc xấp xỉ năm mươi sự kiện của mê ta tính trong bảy ngày, quy ước đã nêu ở bài; hãy kiểm chứng trên tài khoản của bạn.
+
+Cách tính ra con số
+
+Lộ trình tăng ngân sách hai mươi phần trăm mỗi bước
+
+Công thức. Ngân sách mới bằng Ngân sách cũ nhân một phẩy hai, cứ ba đến năm ngày một bước,
+
+Đề bài. Ngân sách hiện tại: sáu trăm nghìn đồng. Mục tiêu: tám trăm ba mươi tư nghìn tám trăm hai mươi mốt đồng, đủ cho một nhóm,
+
+Bước một: sáu trăm nghìn nhân một phẩy hai bằng bảy trăm hai mươi nghìn đồng
+
+Bước hai: bảy trăm hai mươi nghìn nhân một phẩy hai bằng tám trăm sáu mươi tư nghìn đồng
+
+So với mục tiêu: tám trăm sáu mươi tư nghìn lớn hơn hoặc bằng tám trăm ba mươi tư nghìn tám trăm hai mươi mốt bằng đạt sau hai bước
+
+Kết luận. Chỉ cần hai bước, tức khoảng sáu đến mười ngày, là đạt ngân sách đủ cho một nhóm.
+
+Vì sao tính như vậy? Tăng từng bước nhỏ giúp hệ thống thích nghi mà không phải học lại từ đầu. Mức hai mươi phần trăm và nhịp ba đến năm ngày là quy ước thực hành, không phải luật của mê ta.
+
+Nhắn tin với sếp
+
+Mai đang chia sáu nhóm nhỏ.
+
+Bản chưa tốt
+
+Mai nhắn: Chị ơi quảng cáo đang bị lơ ning lim mịt, em không biết làm sao.
+
+Bản tốt
+
+Mai nhắn: Chị ơi, sáu nhóm nhân một trăm nghìn đồng trên ngày chỉ được xấp xỉ sáu sự kiện trên tuần mỗi nhóm, cần xấp xỉ năm mươi, nên báo lơ ning lim mịt. Em đề xuất gom về một nhóm sáu trăm nghìn đồng, xấp xỉ ba mươi sáu sự kiện, và tăng hai mươi phần trăm mỗi ba đến năm ngày tới tám trăm ba mươi tư nghìn tám trăm hai mươi mốt đồng trên ngày. Nếu chưa muốn tăng tiền, em đổi sự kiện tối ưu sang Thêm giỏ hàng. Chị chọn giúp em phương án nào ạ?
+
+Vì sao bản tốt hơn?
+
+Có phép tính, số sự kiện, giải thích vì sao.
+
+Đưa hai phương án để sếp chọn.
+
+Không chỉ nêu vấn đề mà nêu hướng xử lý.
+
+Vì sao bạn cần học phần này
+
+Ngân sách quá nhỏ trên quá nhiều nhóm, chỉnh sửa liên tục và tăng ngân sách quá nhanh là ba nguyên nhân phổ biến nhất khiến chiến dịch không ổn định. Module này giúp bạn tính toán thay vì đoán.
+
+Sau chặng này bạn sẽ
+
+Giải thích giai đoạn học, learning phase, và các thay đổi làm nó chạy lại
+
+Tính ngân sách tối thiểu cho mỗi nhóm từ xi pi ây mục tiêu
+
+Lập lộ trình tăng ngân sách an toàn
+
+Giai đoạn học hoạt động thế nào
+
+Sau khi tạo hoặc chỉnh sửa đáng kể một nhóm quảng cáo, mê ta bước vào giai đoạn học để tìm người phù hợp. Quy ước phổ biến: cần khoảng năm mươi sự kiện tối ưu trong bảy ngày trên mỗi nhóm để thoát giai đoạn học, nguồn Lebesgue, dẫn mê ta. Sau bảy ngày, trạng thái sẽ là Active hoặc lơ ning lim mịt.
+
+lơ ning lim mịt không phải hình phạt: quảng cáo vẫn chạy nhưng mê ta có ít dữ liệu hơn để tối ưu.
+
+Những thay đổi làm học chạy lại
+
+Theo bảng của Lebesgue, dẫn phây búc, các thay đổi sau đặt lại giai đoạn học: tăng ngân sách hơn hai mươi phần trăm; đổi chiến lược giá thầu hoặc mức giá thầu; đổi đối tượng; đổi vị trí hiển thị; đổi sự kiện tối ưu; thêm quảng cáo mới; sửa nội dung quảng cáo, hình, văn bản, tiêu đề, xi ti ây, iu a eo, tạm dừng từ bảy ngày trở lên. mê ta không công bố một bảng cứng; hãy coi mốc hai mươi phần trăm là quy ước an toàn.
+
+Tính ngân sách từ xi pi ây
+
+Công thức: ngân sách ngày tối thiểu cho mỗi nhóm xấp xỉ xi pi ây mục tiêu nhân năm mươi chia bảy. Một nguồn khác, Cometly, khuyên ngân sách ngày ít nhất khoảng mười lần xi pi ây, tương ứng khoảng bảy mươi sự kiện mỗi tuần. Hãy dùng khoảng bảy đến mười lần xi pi ây mỗi ngày mỗi nhóm.
+
+Ví dụ: xi pi ây mục tiêu một trăm năm mươi nghìn đồng cho ngân sách tối thiểu khoảng một phẩy không bảy triệu trên ngày trên nhóm, theo công thức năm mươi sự kiện, hoặc một phẩy năm triệu, theo quy tắc mười lần. Với ngân sách sáu trăm nghìn đồng trên ngày, bạn chỉ đủ khoảng hai mươi tám sự kiện trên tuần ở một nhóm.
+
+Khi nào hạ sự kiện tối ưu xuống tầng trên
+
+Nếu sự kiện đích xảy ra dưới khoảng năm mươi lần mỗi tuần, có thể chuyển lên tầng trên, như AddToCart hay InitiateCheckout. Modern Marketing Institute nói mỗi bước đi xuống phễu giảm khoảng bảy mươi đến chín mươi phần trăm số sự kiện. Lebesgue cảnh báo không nên đổi sang AddToCart chỉ để thoát lơ ning lim mịt vì có thể thu hút người ít mua hơn.
+
+Cách xử lý của giáo trình: chỉ hạ tầng khi thật sự thiếu sự kiện, rồi theo dõi chất lượng bằng đơn thật hai tuần; khi đủ dữ liệu, quay lại tối ưu theo mua hàng.
+
+Mở rộng ngân sách an toàn
+
+Modern Marketing Institute khuyên không thay đổi trong bảy ngày đầu trừ khi chi vượt ba lần xi pi ây mà chưa có kết quả; sau đó tăng không quá hai mươi phần trăm mỗi ba đến năm ngày. Nowoka khuyên nhân bản cấu hình đang thắng thay vì sửa trực tiếp, và thêm creative khi chi tiêu tăng. Hãy ghi lại mỗi lần đổi vào nhật ký.
+
+Lưu ý khi nhân bản: bản sao bắt đầu giai đoạn học mới và có thể cạnh tranh với bản gốc nếu cùng đối tượng.
+
+Sai lầm thường gặp
+
+Tăng ngân sách gấp đôi trong một ngày vì đang có rô át tốt.
+
+Sửa creative, đối tượng, ngân sách cùng lúc rồi không biết thay đổi nào gây ra kết quả.
+
+Đánh giá quảng cáo mới trong hai mươi tư giờ.
+
+Chiến lược giá thầu
+
+Khi đang học, dùng chiến lược chi phí thấp nhất, Highest volume, không giới hạn giá thầu. Sau khi có từ năm mươi chuyển đổi trở lên, có thể thêm giới hạn chi phí, cost cap, đặt cao hơn xi pi ây mục tiêu khoảng ba mươi đến năm mươi phần trăm rồi hạ dần, Modern Marketing Institute. Cost cap đặt thấp hơn mức thị trường làm quảng cáo bị bỏ đói, chi tiêu không lên.
+
+Quyết định theo số sự kiện mỗi tuần, mỗi nhóm,
+
+Số sự kiện trên tuần: lớn hơn hoặc bằng năm mươi. Tình trạng: Đủ dữ liệu. Hành động: Giữ ổn định, tăng ngân sách từng bước. Độ tin cậy:
+
+Số sự kiện trên tuần: hai mươi lăm đến bốn mươi chín. Tình trạng: Gần đủ. Hành động: Gom nhóm, tăng ngân sách vừa phải, không sửa liên tục. Độ tin cậy:
+
+Số sự kiện trên tuần: nhỏ hơn hai mươi lăm. Tình trạng: Thiếu dữ liệu. Hành động: Gom về một nhóm, hoặc hạ sự kiện tối ưu lên tầng trên. Độ tin cậy:
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: Thấy lãi thì tăng gấp đôi ngân sách.
+
+Thực tế: Tăng đột ngột dễ làm hệ thống học lại. Quy ước thực hành: tăng khoảng hai mươi phần trăm mỗi ba đến năm ngày.
+
+Nhiều người nghĩ: lơ ning lim mịt là bị phạt.
+
+Thực tế: Đó chỉ là trạng thái thiếu dữ liệu. Quảng cáo vẫn chạy, chỉ là thuật toán ít căn cứ để tối ưu.
+
+Chị Hạnh dặn: Tiền ít thì đứng một chỗ cho vững, đừng chia nhỏ.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Với xi pi ây mục tiêu và ngân sách của một dự án bất kỳ, tính xem nuôi được tối đa mấy nhóm quảng cáo.
+
+Thử trong mười phút
+
+Chọn một xi pi ây giả định và tính ngân sách tối thiểu cho một nhóm bằng máy tính ở tab Thực chiến. Thử đổi số nhóm và xem trạng thái thay đổi.

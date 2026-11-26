@@ -1,0 +1,197 @@
+Chặng không, khoảng bốn mươi lăm phút
+
+Bản đồ nghề phây búc át ếch xê kiu tiv
+
+Hệ sinh thái mê ta, bối cảnh Việt Nam và bài toán lãi lỗ trước khi chạy.
+
+Nói đơn giản
+
+Quảng cáo phây búc giống thuê một biển quảng cáo biết suy nghĩ: bạn trả tiền, hệ thống chọn những người có khả năng quan tâm nhất, rồi báo lại họ đã làm gì sau khi thấy quảng cáo.
+
+Ví dụ đời thường
+
+Chạy quảng cáo phây búc giống thuê một quầy trong khu chợ rất đông. mê ta là chủ chợ: cho bạn chỗ đứng và dẫn khách tới. Nhưng hàng có ngon không, giá có lãi không, người bán có chốt được không vẫn là việc của bạn.
+
+Nối với điều bạn đã học
+
+Bạn đã biết brief, mi đi a plan và đo hiệu quả chiến dịch. Ở digital, mọi hành động của khách đo được từng ngày, nên câu hỏi có hiệu quả không? được trả lời bằng số mỗi sáng, không phải chờ hết chiến dịch.
+
+Phiên đấu giá baD: ba quảng cáo, ba cột. Cột tổng cao nhất thắng, không nhất thiết người trả nhiều nhất.
+
+Mọi tài sản mê ta nằm trong một bít nịch pót pho li ô của công ty.
+
+Từ giá bán ba trăm năm mươi nghìn đồng đến xi pi ây hòa vốn khoảng một trăm năm mươi hai nghìn đồng, ví dụ ở máy tính tab Thực chiến.
+
+Một tuần làm việc điển hình của ếch xê kiu tiv.
+
+Cùng là quảng cáo, nhưng cách mua, đo và sửa khác nhau rất nhiều.
+
+Thuật ngữ của chặng này
+
+Lượt hiển thị, im pre sần. Số lần quảng cáo xuất hiện trên màn hình. Một người có thể tạo nhiều lượt hiển thị. Ví dụ: Một người thấy quảng cáo ba lần là ba lượt hiển thị nhưng chỉ một reach.
+
+rích, số người tiếp cận. Số người khác nhau đã thấy quảng cáo ít nhất một lần. Ví dụ: một trăm nghìn lượt hiển thị tới bốn mươi nghìn người thì reach là bốn mươi nghìn.
+
+xi pi em. Chi phí cho một nghìn lượt hiển thị. Cho biết giá mua sự chú ý. Ví dụ: Chi tám mươi tám nghìn đồng cho một nghìn lượt hiển thị thì xi pi em là tám mươi tám nghìn đồng.
+
+xi pi ây. Chi phí cho mỗi kết quả, đơn hàng, lead. Là chỉ số quyết định lãi hay lỗ. Ví dụ: Chi hai mươi triệu cho một trăm mười đơn thì xi pi ây khoảng một trăm tám mươi hai nghìn đồng.
+
+rô át. Doanh thu từ quảng cáo chia chi phí quảng cáo. Ví dụ: Chi mười triệu, doanh thu ba mươi triệu thì rô át là ba.
+
+ây ô vi, giá trị đơn trung bình. Doanh thu chia số đơn. Ví dụ: ba mươi tám phẩy năm triệu hoặc một trăm mười đơn bằng ba trăm năm mươi nghìn đồng.
+
+bít nịch pót pho li ô. Nơi chứa pây, tài khoản quảng cáo, dataset, tên miền và phân quyền của công ty. Trước đây gọi là bít nịch ma na giơ. Ví dụ: Công ty có hai át min và ba nhân viên với quyền riêng.
+
+Câu chuyện của Mai và chị Hạnh
+
+Lúa Skin bán xê rum ba trăm năm mươi nghìn đồng. Giá vốn một trăm hai mươi nghìn đồng, phí thanh toán năm phần trăm, ship hai mươi lăm nghìn đồng, tỷ lệ hủy hoặc hoàn mười lăm phần trăm.
+
+Mai nói: Chị ơi, báo cáo rô át đang là ba. Em tăng ngân sách gấp đôi luôn nhé?
+
+Chị Hạnh nói: Khoan. Em tính giúp chị xi pi ây hòa vốn trước đã.
+
+Mai nói: Em tính ra khoảng một trăm năm mươi hai nghìn đồng ạ. Vậy rô át hòa vốn là ba trăm năm mươi chia một trăm năm mươi hai xấp xỉ hai phẩy ba.
+
+Chị Hạnh nói: Đúng. rô át ba tương ứng xi pi ây khoảng một trăm mười bảy nghìn đồng, mỗi đơn lãi chừng ba mươi lăm nghìn đồng, tức mười phần trăm giá bán. Có lãi, nhưng mỏng. Tăng gấp đôi mà rô át tụt xuống hai phẩy ba là mất sạch lãi.
+
+Cách tính ra con số
+
+xi pi ây hòa vốn và rô át hòa vốn của xê rum Lúa Skin
+
+Công thức. xi pi ây hòa vốn bằng lãi kỳ vọng trên mỗi đơn đặt, trước chi phí quảng cáo. rô át hòa vốn bằng Giá bán chia xi pi ây hòa vốn
+
+Đề bài. Giá bán: ba trăm năm mươi nghìn đồng. Giá vốn: một trăm hai mươi nghìn đồng. Phí thanh toán: năm phần trăm giá bán. Ship shop chịu: hai mươi lăm nghìn đồng. Hủy hoặc hoàn: mười lăm phần trăm. Ship hoàn về: hai mươi lăm nghìn đồng. Lãi mong muốn: mười phần trăm giá bán
+
+Phí thanh toán: ba trăm năm mươi nghìn nhân năm phần trăm bằng mười bảy nghìn năm trăm đồng
+
+Lãi mỗi đơn giao thành công, chưa tính quảng cáo, ba trăm năm mươi nghìn trừ một trăm hai mươi nghìn trừ mười bảy nghìn năm trăm trừ hai mươi lăm nghìn bằng một trăm tám mươi bảy nghìn năm trăm đồng
+
+Đơn bị hủy hoặc hoàn: shop mất ship đi và ship về, không có doanh thu: hai mươi lăm nghìn cộng hai mươi lăm nghìn bằng năm mươi nghìn đồng
+
+Lãi kỳ vọng mỗi đơn đặt, tám mươi lăm phần trăm đơn thành công, mười lăm phần trăm đơn hoàn, tám mươi lăm phần trăm nhân một trăm tám mươi bảy nghìn năm trăm trừ mười lăm phần trăm nhân năm mươi nghìn bằng một trăm năm mươi chín nghìn ba trăm bảy mươi lăm trừ bảy nghìn năm trăm bằng một trăm năm mươi mốt nghìn tám trăm bảy mươi lăm đồng
+
+rô át hòa vốn: ba trăm năm mươi nghìn chia một trăm năm mươi mốt nghìn tám trăm bảy mươi lăm bằng hai phẩy ba
+
+xi pi ây mục tiêu để còn lãi mười phần trăm giá bán, ba mươi lăm nghìn đồng, một trăm năm mươi mốt nghìn tám trăm bảy mươi lăm trừ ba mươi lăm nghìn bằng một trăm mười sáu nghìn tám trăm bảy mươi lăm đồng
+
+rô át mục tiêu: ba trăm năm mươi nghìn chia một trăm mười sáu nghìn tám trăm bảy mươi lăm bằng hai phẩy chín mươi chín
+
+Kết luận. Mỗi đơn đặt chỉ được trả tối đa một trăm năm mươi mốt nghìn tám trăm bảy mươi lăm đồng cho quảng cáo, vượt là lỗ. Muốn còn lãi mười phần trăm thì xi pi ây phải dưới một trăm mười sáu nghìn tám trăm bảy mươi lăm đồng, tương ứng rô át từ hai phẩy chín mươi chín trở lên.
+
+Vì sao tính như vậy? Ta tính trên đơn đặt, không phải đơn giao thành công, vì quảng cáo đã tốn tiền ngay cả với đơn sau đó bị hủy. Vì vậy phần hủy hoặc hoàn phải trừ vào lãi trước khi so với xi pi ây. Đây là mô hình đơn giản, cùng công thức với máy tính ở tab Thực chiến, hãy thay bằng số thật của bạn.
+
+Nhắn tin với sếp
+
+Mai muốn tăng ngân sách vì rô át đang đẹp. Cùng một ý, hai cách nhắn.
+
+Bản chưa tốt
+
+Mai nhắn: Chị ơi rô át đang ba rồi, em tăng ngân sách lên nhé!
+
+Bản tốt
+
+Mai nhắn: Chị Hạnh ơi, tuần qua rô át ba, xi pi ây xấp xỉ một trăm mười sáu nghìn sáu trăm sáu mươi bảy đồng, hòa vốn của xê rum là rô át hai phẩy ba, xi pi ây một trăm năm mươi mốt nghìn tám trăm bảy mươi lăm đồng. Mỗi đơn lãi xấp xỉ ba mươi lăm nghìn đồng. Em đề xuất tăng hai mươi phần trăm, sáu trăm nghìn đồng, bảy trăm hai mươi nghìn đồng trên ngày, trong ba ngày. Nếu xi pi ây vượt một trăm năm mươi mốt nghìn tám trăm bảy mươi lăm đồng hai ngày liên tiếp em lùi lại. Chị duyệt giúp em trước năm giờ chiều nay được không ạ?
+
+Vì sao bản tốt hơn?
+
+Có số và so với mốc hòa vốn, không chỉ nói rô át đẹp.
+
+Có mức tăng cụ thể và điều kiện dừng.
+
+Có hạn để sếp quyết định.
+
+Vì sao bạn cần học phần này
+
+phây búc át ếch xê kiu tiv là người vận hành tiền thật của doanh nghiệp: dựng tài khoản, đo lường, chạy, tối ưu và báo cáo. Bạn được đánh giá bằng chi phí trên kết quả kinh doanh, đơn hàng, khách tiềm năng có thể gọi được, không phải số lượt thích. Module này cho bạn bản đồ nghề trước khi đi vào kỹ thuật.
+
+Sau chặng này bạn sẽ
+
+Gọi tên đúng từng công cụ trong hệ sinh thái mê ta và biết khi nào dùng
+
+Tính được xi pi ây và rô át hòa vốn của một sản phẩm trước khi chạy quảng cáo
+
+Mô tả một tuần làm việc điển hình và các ca pi ai của vị trí ếch xê kiu tiv
+
+Hệ sinh thái mê ta bạn phải thuộc
+
+Mọi thứ nằm dưới bít nịch pót pho li ô, trước đây gọi là bít nịch ma na giơ, nơi chứa pây, tài khoản quảng cáo, píc xồ hoặc đa ta sét, tên miền, catalog và phân quyền. Nếu tài sản nằm lẻ trong tài khoản cá nhân, một lần bị khóa là mất toàn bộ.
+
+pây hoặc tài khoản in tờ ra gram: danh tính của thương hiệu và là nơi nhận tin nhắn, bình luận.
+
+Ad Account: nơi thanh toán và chạy quảng cáo. Mỗi tài khoản có tiền tệ, múi giờ và hạn mức chi tiêu riêng, không đổi được sau khi tạo.
+
+át ma na giơ: tạo, sửa, đọc báo cáo chiến dịch.
+
+Events Manager: quản lý píc xồ hoặc đa ta sét và con vơ sần ây pi ai, xem sự kiện nhận được, chất lượng khớp dữ liệu, i ven mát quan li ti.
+
+Commerce Manager: quản lý catalog sản phẩm cho quảng cáo danh mục.
+
+Hộp thư, in bốc hoặc Business Suite, nơi đội chốt đơn trả lời. Ở Việt Nam đây thường là điểm cuối của phễu.
+
+Ví dụ. Shop mỹ phẩm có một pây, một tài khoản in tờ ra gram, hai tài khoản quảng cáo, một cho website, một cho tin nhắn, một đa ta sét gắn website. Tất cả nằm trong một bít nịch pót pho li ô có hai át min.
+
+Bối cảnh Việt Nam quyết định cách bạn làm
+
+Theo mê ta, qua báo Quân đội nhân dân, khoảng chín mươi tư phần trăm người dùng internet Việt Nam hoạt động trên ít nhất một nền tảng của mê ta, và vi đê ô ngắn cùng livestream chiếm hơn một nửa thời gian dùng mê ta tại đây. Theo bài của giám đốc quốc gia mê ta Việt Nam trên vi ai a, tám mươi đến chín mươi phần trăm doanh nghiệp chạy quảng cáo phây búc ở Việt Nam dùng quảng cáo cờ lích tu mét sịt.
+
+Hệ quả thực tế: phần lớn doanh nghiệp không bán trên trang đích mà bán trong hộp thư. Vì vậy bạn phải đo cả chuỗi từ chi phí quảng cáo đến cuộc trò chuyện, số điện thoại, đơn chốt và đơn giao thành công. Module bảy đi sâu vào phần này.
+
+Sai lầm thường gặp
+
+Chỉ nhìn chi phí mỗi tin nhắn rồi báo cáo thành công, trong khi đội sale không chốt được đơn.
+
+Lấy số liệu của mê ta, nguồn tự công bố, làm chuẩn tuyệt đối. Hãy đối chiếu với đơn thật.
+
+Ba câu hỏi trước khi chạy bất kỳ quảng cáo nào
+
+một. Mỗi đơn lãi bao nhiêu? Không biết biên lợi nhuận thì không biết xi pi ây nào là lỗ. Dùng máy tính ở tab Thực chiến.
+
+hai. Đơn hàng được tạo ở đâu? Website, sàn, sốp pi, tích tốc Shop, hộp thư, điện thoại hay cửa hàng? Mỗi nơi có cách đo khác nhau.
+
+ba. Ai trả lời khách và nhanh cỡ nào? Quảng cáo tốt cũng thất bại nếu tin nhắn được trả lời sau ba giờ.
+
+Ví dụ. Giá bán ba trăm năm mươi nghìn đồng, giá vốn một trăm hai mươi nghìn đồng, phí năm phần trăm, ship hai mươi lăm nghìn đồng, hoàn mười lăm phần trăm. xi pi ây hòa vốn khoảng một trăm năm mươi hai nghìn đồng và rô át hòa vốn khoảng hai phẩy ba. Chạy xi pi ây một trăm tám mươi nghìn đồng là lỗ dù át ma na giơ báo có đơn.
+
+Một tuần làm việc điển hình
+
+Đây là mẫu của giáo trình, bạn điều chỉnh theo công ty.
+
+Hằng ngày, đầu giờ: kiểm tra chi tiêu so với ngân sách, quảng cáo bị từ chối, trạng thái giao hàng, lỗi thanh toán, tin nhắn tồn.
+
+Hằng ngày, chiều: xem xi pi ây, frequency, tắt quảng cáo vượt ngưỡng đã định trước, ghi lại thay đổi vào nhật ký.
+
+Thứ Hai: báo cáo tuần, chốt kế hoạch thử nghiệm creative.
+
+Giữa tuần: họp creative, gửi brief cho designer hoặc editor, kiểm tra tra king.
+
+Thứ Sáu: đẩy batch creative mới, kiểm tra mùa cao điểm sắp tới, mười một.mười một, mười hai.mười hai, Black Friday, Tết.
+
+ếch xê kiu tiv được đo bằng gì
+
+Nhóm: Kết quả kinh doanh. Chỉ số: rô át, xi pi ây, xi ây xi, doanh thu trên đơn. Câu hỏi nó trả lời: Tiền bỏ ra có sinh lời không?
+
+Nhóm: Chất lượng phễu. Chỉ số: xi ti a, tỷ lệ xem trang, tỷ lệ chuyển đổi, tỷ lệ chốt in bốc. Câu hỏi nó trả lời: Điểm nào của hành trình đang rò rỉ?
+
+Nhóm: Kỷ luật vận hành. Chỉ số: Đúng quy trình, báo cáo chính xác, nhật ký thay đổi. Câu hỏi nó trả lời: Có thể giao thêm ngân sách cho bạn không?
+
+Nhóm: Tốc độ học. Chỉ số: Số concept creative đã thử, tỷ lệ thắng. Câu hỏi nó trả lời: Bạn có tạo ra hiểu biết mới mỗi tuần không?
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: Chạy ads là bấm nút Quảng bá bài viết.
+
+Thực tế: Nút quảng bá là phiên bản rút gọn. át ma na giơ cho bạn chọn mục tiêu, đối tượng, vị trí và đo lường, tức là những thứ quyết định hiệu quả.
+
+Nhiều người nghĩ: rô át cao là luôn tốt.
+
+Thực tế: rô át chỉ có nghĩa khi so với rô át hòa vốn của chính sản phẩm đó. Biên mỏng thì rô át ba vẫn có thể lỗ.
+
+Chị Hạnh dặn: Trước khi hỏi chạy thế nào, hãy hỏi mỗi đơn mình lãi bao nhiêu.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Chọn một sản phẩm bất kỳ và tính xi pi ây hòa vốn của nó trong ba phút. Rồi giải thích cho một người ngoài ngành vì sao đó là con số quan trọng nhất.
+
+Thử trong mười phút
+
+Mở Thư viện quảng cáo của mê ta, facebook.com hoặc ads hoặc library, tìm ba thương hiệu cùng ngành. Ghi lại định dạng, thông điệp chính và nút kêu gọi của mỗi quảng cáo họ đang chạy.

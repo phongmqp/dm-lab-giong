@@ -1,0 +1,219 @@
+Chặng mười, khoảng bảy mươi phút
+
+Chẩn đoán và tối ưu hằng ngày
+
+Thang phễu, quy tắc tắt hoặc giữ hoặc tăng và hai hồ sơ mô phỏng.
+
+Nói đơn giản
+
+Đọc báo cáo như bác sĩ khám bệnh: đi từ trên xuống, tìm chỗ gãy đầu tiên rồi mới chữa, đừng đoán.
+
+Ví dụ đời thường
+
+Như bác sĩ khám bệnh: nghe triệu chứng, xi pi ây tăng, rồi đo từng chỉ số từ trên xuống, tìm chỗ gãy đầu tiên, rồi mới kê đơn. Không ai uống thuốc khi chưa biết bệnh.
+
+Nối với điều bạn đã học
+
+Giống phân tích phễu thương hiệu từ nhận biết đến mua. Điểm khác là mỗi bậc có công thức và có thể tính trong vài giây.
+
+Cầu thang chẩn đoán baD: đi từ trên xuống và dừng ở bậc đầu tiên bị gãy, kéo để xoay.
+
+Hồ sơ mô phỏng A: xi pi ây tăng bảy mươi phần trăm do mệt mỏi creative.
+
+xi pi ây bằng xi pi xi chia xi vi a. Mỗi nhánh cho bạn một đòn bẩy, số minh họa.
+
+Vòng lặp hằng ngày của người làm tối ưu.
+
+Thuật ngữ của chặng này
+
+xi pi em. Chi phí cho một nghìn lượt hiển thị. Cho biết giá mua sự chú ý. Ví dụ: Chi tám mươi tám nghìn đồng cho một nghìn lượt hiển thị thì xi pi em là tám mươi tám nghìn đồng.
+
+xi ti a, tỷ lệ bấm. Số click chia lượt hiển thị. Ghi rõ là click liên kết hay tất cả click. Ví dụ: hai trăm năm mươi nghìn hiển thị, bốn nghìn năm trăm click liên kết bằng một phẩy tám phần trăm.
+
+xi pi xi. Chi phí cho mỗi click. Bằng xi pi em chia, xi ti a nhân một nghìn. Ví dụ: xi pi em một trăm nghìn đồng, xi ti a một phẩy bốn phần trăm thì xi pi xi khoảng bảy nghìn một trăm bốn mươi ba đồng.
+
+xi vi a, tỷ lệ chuyển đổi. Số chuyển đổi chia số người vào. Luôn nói rõ mẫu số là click hay lượt xem trang. Ví dụ: một trăm mười đơn trên ba nghìn bốn trăm lượt xem trang bằng ba phẩy hai phần trăm.
+
+xi pi ây. Chi phí cho mỗi kết quả, đơn hàng, lead. Là chỉ số quyết định lãi hay lỗ. Ví dụ: Chi hai mươi triệu cho một trăm mười đơn thì xi pi ây khoảng một trăm tám mươi hai nghìn đồng.
+
+rô át. Doanh thu từ quảng cáo chia chi phí quảng cáo. Ví dụ: Chi mười triệu, doanh thu ba mươi triệu thì rô át là ba.
+
+Câu chuyện của Mai và chị Hạnh
+
+Trong mười bốn ngày, xi pi ây của Lúa Skin tăng từ một trăm năm mươi nghìn đồng lên hai trăm năm mươi lăm nghìn đồng, +bảy mươi phần trăm.
+
+Mai nói: Em định tắt cả chiến dịch cho đỡ lỗ ạ.
+
+Chị Hạnh nói: Khoan. Em đọc từ trên xuống: xi ti a giảm từ một phẩy tám phần trăm còn một phẩy một phần trăm, frequency lên ba phẩy sáu.
+
+Mai nói: Vậy là người xem đã thấy quảng cáo quá nhiều lần.
+
+Chị Hạnh nói: Đúng, dấu hiệu mệt mỏi creative. Thêm concept mới thay vì tắt hay sửa đối tượng.
+
+Cách tính ra con số
+
+Cây chỉ số: đòn bẩy nào giảm xi pi ây nhiều nhất?
+
+Công thức. xi pi xi bằng xi pi em chia, xi ti a nhân một nghìn. xi pi ây bằng xi pi xi chia xi vi a, xi vi a tính trên click liên kết,
+
+Đề bài. xi pi em: một trăm nghìn đồng. xi ti a link: một phẩy bốn phần trăm. xi vi a: ba phẩy hai phần trăm
+
+xi pi xi: một trăm nghìn chia, một phẩy bốn phần trăm nhân một nghìn bằng mười bốn, bằng bảy nghìn một trăm bốn mươi ba đồng
+
+xi pi ây: bảy nghìn một trăm bốn mươi ba chia ba phẩy hai phần trăm bằng hai trăm hai mươi ba nghìn hai trăm mười bốn đồng
+
+Nếu xi ti a tăng từ một phẩy bốn phần trăm lên một phẩy tám phần trăm: xi pi xi mới: một trăm nghìn chia, một phẩy tám phần trăm nhân một nghìn bằng mười tám, bằng năm nghìn năm trăm năm mươi sáu đồng
+
+xi pi ây mới: năm nghìn năm trăm năm mươi sáu chia ba phẩy hai phần trăm bằng một trăm bảy mươi ba nghìn sáu trăm mười một đồng
+
+Thay đổi xi pi ây: một trăm bảy mươi ba nghìn sáu trăm mười một trừ hai trăm hai mươi ba nghìn hai trăm mười bốn, chia hai trăm hai mươi ba nghìn hai trăm mười bốn bằng −hai mươi hai phẩy hai phần trăm
+
+Nếu thay vào đó xi vi a tăng từ ba phẩy hai phần trăm lên ba phẩy tám phần trăm: xi pi ây mới: bảy nghìn một trăm bốn mươi ba chia ba phẩy tám phần trăm bằng một trăm tám mươi bảy nghìn chín trăm bảy mươi đồng, −mười lăm phẩy tám phần trăm,
+
+Kết luận. Tăng xi ti a thêm không phẩy bốn điểm phần trăm giảm xi pi ây hai mươi hai phẩy hai phần trăm. Tăng xi vi a thêm không phẩy sáu điểm giảm mười lăm phẩy tám phần trăm. Mỗi nhánh có một đòn bẩy.
+
+Vì sao tính như vậy? xi pi ây là tích các hiệu quả ở từng tầng, nên giảm ở tầng nào cũng kéo xi pi ây xuống, nhưng bạn nên sửa tầng đang yếu nhất trước, thang chẩn đoán. Ở đây xi vi a tính trên click; nếu mẫu số là lượt xem trang thì xi pi ây bằng xi pi xi chia, tỷ lệ xem trang nhân xi vi a.
+
+Cách tính ra con số
+
+xi pi ây tăng bảy mươi phần trăm: tính thế nào?
+
+Công thức. Thay đổi phần trăm bằng, Giá trị mới trừ Giá trị cũ, chia Giá trị cũ
+
+Đề bài. xi pi ây ngày một: một trăm năm mươi nghìn đồng. xi pi ây ngày mười bốn: hai trăm năm mươi lăm nghìn đồng
+
+Chênh lệch: hai trăm năm mươi lăm nghìn trừ một trăm năm mươi nghìn bằng một trăm lẻ năm nghìn đồng
+
+Thay đổi: một trăm lẻ năm nghìn chia một trăm năm mươi nghìn bằng bảy mươi phần trăm
+
+Kết luận. xi pi ây tăng bảy mươi phần trăm. Hãy nhìn cùng lúc với xi ti a, giảm một phẩy tám phần trăm còn một phẩy một phần trăm, và frequency, một phẩy bốn lên ba phẩy sáu, để chẩn đoán nguyên nhân.
+
+Vì sao tính như vậy? Phần trăm thay đổi luôn lấy mốc ban đầu làm mẫu số. Đừng lấy giá trị mới làm mẫu số, vì sẽ ra con số nhỏ hơn thực tế.
+
+Nhắn tin với sếp
+
+xi pi ây từ một trăm năm mươi nghìn đồng lên hai trăm năm mươi lăm nghìn đồng.
+
+Bản chưa tốt
+
+Mai nhắn: Chị ơi xi pi ây tăng nhiều quá, em không biết tại sao.
+
+Bản tốt
+
+Mai nhắn: Chị ơi, mười bốn ngày qua xi pi ây tăng bảy mươi phần trăm, một trăm năm mươi nghìn đồng lên hai trăm năm mươi lăm nghìn đồng. Em đọc từ trên xuống thì gãy ở tầng creative: xi ti a giảm một phẩy tám phần trăm còn một phẩy một phần trăm, frequency ba phẩy sáu. Nghi mệt mỏi creative. Em xin ba concept mới để thay trong ba ngày, không đụng tới đối tượng và ngân sách. Nếu xi pi ây không về dưới một trăm năm mươi mốt nghìn tám trăm bảy mươi lăm đồng sau bảy ngày em sẽ báo chị phương án B.
+
+Vì sao bản tốt hơn?
+
+Có số thay đổi và cách tính.
+
+Có chẩn đoán theo trình tự, không đoán.
+
+Giới hạn thay đổi: chỉ sửa một thứ.
+
+Vì sao bạn cần học phần này
+
+Phần lớn thời gian của ếch xê kiu tiv là đọc số và quyết định. Có thang chẩn đoán đi từ trên xuống giúp bạn tìm đúng điểm gãy của phễu thay vì sửa lung tung.
+
+Sau chặng này bạn sẽ
+
+Thuộc công thức các chỉ số trong át ma na giơ
+
+Đi theo thang chẩn đoán để tìm điểm gãy đầu tiên
+
+Áp dụng quy tắc tắt hoặc giữ hoặc tăng và quy trình hằng ngày
+
+Từ điển chỉ số
+
+Dùng bảng bên dưới. Lưu ý át ma na giơ có nhiều biến thể của xi ti a: xi ti a, tất cả, tính mọi click, còn xi ti a, link, chỉ tính click vào liên kết. Hãy chọn một loại và dùng nhất quán.
+
+Thang chẩn đoán: đi từ trên xuống
+
+Phễu: Hiển thị, xi pi em, xi ti a, xi pi xi, Lượt xem trang, Thêm giỏ, Thanh toán, Mua, xi pi ây hoặc rô át. Bắt đầu ở điểm gãy đầu tiên rồi sửa nó, vì sửa tầng dưới khi tầng trên hỏng không giải quyết gì.
+
+xi pi em tăng hoặc cao bất thường: tệp nhỏ, frequency cao, mùa cao điểm, creative yếu.
+
+xi ti a thấp: hook, concept, ưu đãi chưa đủ hấp dẫn.
+
+xi ti a tốt nhưng lượt xem trang thấp so với click: trang tải chậm, click nhầm, tra king lỗi.
+
+Xem trang tốt nhưng mua thấp: trang đích, giá, ưu đãi, thanh toán, hết hàng, kịch bản chat.
+
+xi pi ây tăng dần: mệt mỏi creative, cạnh tranh, mùa vụ, thay đổi chính sách giá.
+
+Quy tắc quyết định
+
+Đặt quy tắc trước khi chạy để tránh quyết định theo cảm xúc. Mốc tham khảo từ các nguồn: không chỉnh trong bảy ngày đầu trừ khi chi vượt ba lần xi pi ây mà chưa có kết quả, Modern Marketing Institute, chờ khoảng năm đến bảy ngày sau thay đổi và đọc ít nhất hai tuần, Enrich Labs, tăng ngân sách tối đa hai mươi phần trăm mỗi ba đến năm ngày.
+
+Sai lầm thường gặp
+
+Tắt quảng cáo vì thấy xấu khi chưa đủ dữ liệu.
+
+Sửa liên tục nhiều biến cùng lúc.
+
+Không ghi lại thay đổi nên không biết nguyên nhân khi kết quả đổi.
+
+Nhịp làm việc
+
+Mẫu nhịp của giáo trình:
+
+Sáng: chi tiêu so với ngân sách, quảng cáo bị từ chối, trạng thái giao hàng, tin nhắn tồn.
+
+Chiều: xi pi ây, frequency, hook hoặc xi ti a của quảng cáo mới; thực hiện quy tắc tắt.
+
+Hằng tuần: đối chiếu đơn thật, báo cáo, kế hoạch thử nghiệm.
+
+Mùa cao điểm, mười một.mười một, mười hai.mười hai, Black Friday, Tết, xi pi em thường tăng, hãy chuẩn bị creative và ngân sách sớm, so sánh với cùng kỳ năm trước.
+
+Từ điển chỉ số át ma na giơ
+
+Chỉ số: xi pi em. Công thức: Chi phí chia lượt hiển thị nhân một nghìn. Dùng để: Đo giá mua sự chú ý. Lưu ý: Tăng mạnh vào mùa cao điểm
+
+Chỉ số: phờ ri quần xi. Công thức: Lượt hiển thị chia rích. Dùng để: Đo mức lặp lại. Lưu ý: Quá cao thường báo hiệu mệt mỏi
+
+Chỉ số: xi ti a, link. Công thức: cờ lích liên kết chia lượt hiển thị. Dùng để: Đo sức hấp dẫn. Lưu ý: Khác xi ti a, tất cả,
+
+Chỉ số: xi pi xi, link. Công thức: Chi phí chia click liên kết. Dùng để: Giá một click. Lưu ý: bằng xi pi em chia, xi ti a nhân một nghìn,
+
+Chỉ số: Tỷ lệ xem trang. Công thức: Lượt xem trang đích chia click liên kết. Dùng để: Phát hiện click rơi rụng. Lưu ý: Thấp thường do tốc độ hoặc tra king
+
+Chỉ số: xi vi a, xem trang, mua. Công thức: Mua chia lượt xem trang. Dùng để: Đo chất lượng trang. Lưu ý: So với lịch sử riêng
+
+Chỉ số: xi pi ây. Công thức: Chi phí chia số mua. Dùng để: So với xi pi ây hòa vốn. Lưu ý: Luôn đối chiếu đơn thật
+
+Chỉ số: rô át. Công thức: Giá trị mua chia chi phí. Dùng để: So với rô át hòa vốn. Lưu ý: Nêu rõ cửa sổ ghi nhận
+
+Chỉ số: húc rate. Công thức: Lượt xem ba giây chia lượt hiển thị. Dùng để: Giữ chân. Lưu ý: Cần tạo chỉ số tùy chỉnh
+
+Triệu chứng, nguyên nhân, hành động
+
+Triệu chứng: xi pi em tăng đột biến. Kiểm tra: Mùa cao điểm, frequency, tệp, creative. Hành động: So với cùng kỳ, thêm concept, kiểm tra tệp. Độ tin cậy:
+
+Triệu chứng: xi ti a giảm dần cộng frequency tăng. Kiểm tra: Mệt mỏi creative. Hành động: Thêm concept mới, tạm dừng creative yếu. Độ tin cậy:
+
+Triệu chứng: xi ti a tốt nhưng xem trang thấp. Kiểm tra: Tốc độ trang, tra king, click nhầm. Hành động: Kiểm tra tốc độ, píc xồ, vị trí nút. Độ tin cậy:
+
+Triệu chứng: Xem trang tốt, mua thấp. Kiểm tra: Giá, ưu đãi, thanh toán, hết hàng, chat. Hành động: Kiểm tra trang và kịch bản chốt. Độ tin cậy:
+
+Triệu chứng: Không tiêu hết ngân sách. Kiểm tra: Quảng cáo bị từ chối, bid cap thấp, tệp nhỏ. Hành động: Gỡ cap, kiểm tra trạng thái và tệp. Độ tin cậy:
+
+Triệu chứng: rô át cao nhưng tiền không về. Kiểm tra: Khử trùng lặp, view-through, đơn hủy hoặc hoàn. Hành động: Module hai và chín. Độ tin cậy:
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: xi pi ây tăng thì giảm ngân sách xuống.
+
+Thực tế: Giảm ngân sách không chữa nguyên nhân. Trước hết tìm tầng nào gãy: hook, xi ti a, trang đích, hay chuyển đổi.
+
+Nhiều người nghĩ: Sửa nhiều thứ cùng lúc cho nhanh.
+
+Thực tế: Sửa nhiều biến cùng lúc thì không biết cái nào có tác dụng, và có thể làm hệ thống học lại.
+
+Chị Hạnh dặn: Khám trước, kê đơn sau.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Với bộ số trong công cụ chẩn đoán, tìm điểm gãy đầu tiên và viết ba hành động theo thứ tự ưu tiên.
+
+Thử trong mười phút
+
+Dùng thang chẩn đoán với hồ sơ mô phỏng A trong tab kết xờ tắt đi, viết ra điểm gãy đầu tiên và ba hành động.

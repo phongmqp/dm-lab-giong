@@ -1,0 +1,93 @@
+Chặng hai, khoảng bảy mươi phút
+
+tra king: píc xồ, ca pi và chất lượng dữ liệu
+
+Khử trùng lặp, i ven mát quan li ti và quy trình kiu ây tám bước.
+
+Tình huống mô phỏng Hồ sơ chẩn đoán, ví dụ minh họa,
+
+Shop thời trang: rô át bảy nhưng tiền không về
+
+bảy: rô át mê ta
+
+ba phẩy một: rô át thực
+
+cộng một trăm hai mươi sáu phần trăm: Chênh lệch
+
+Bối cảnh
+
+Tình huống mô phỏng, dựa trên dạng lỗi phổ biến được nhiều nguồn thực hành mô tả. Shop báo cáo rô át bảy trên át ma na giơ nhưng kế toán chỉ thấy doanh thu tương ứng rô át khoảng ba.
+
+Dữ liệu của hồ sơ
+
+píc xồ và ca pi cùng gửi Purchase, nhưng ca pi không gửi i ven ai đi.
+
+Đơn đã hủy trong hai mươi tư giờ vẫn được tính.
+
+Phân tích
+
+Lệch bằng, bảy trừ ba phẩy một, hoặc ba phẩy một xấp xỉ một trăm hai mươi sáu phần trăm. Đây là kịch bản điển hình: Purchase bị đếm hai lần, thiếu i ven ai đi, và đơn hủy vẫn nằm trong số liệu.
+
+Hệ quả: thuật toán học từ dữ liệu phóng đại, chiến dịch trông tốt hơn thực tế, và quyết định tăng ngân sách dựa trên số liệu sai.
+
+Nguồn không cho biết
+
+Đây là ví dụ do giáo trình dựng, không phải dữ liệu của doanh nghiệp thật.
+
+Cách áp dụng
+
+Thêm i ven ai đi giống nhau cho píc xồ và ca pi.
+
+Chỉ gửi Purchase khi thanh toán hoặc xác nhận đơn thành công; gửi sự kiện hủy riêng.
+
+Chạy lại đối chiếu sau bảy ngày.
+
+Tình huống mô phỏng.
+
+Case thực tế Thời trang kính mắt, Toàn cầu, Server-side ca pi
+
+Gentle Monster: triển khai con vơ sần ây pi ai phía máy chủ
+
+cộng một trăm hai mươi hai phần trăm: rô át
+
+−năm mươi phần trăm: xi pi ây mua hàng
+
+cộng năm mươi hai phần trăm: Lượt mua ghi nhận thêm
+
+Bối cảnh
+
+Quy định riêng tư thay đổi và việc giảm dùng cookie làm số đo hiệu quả quảng cáo của Gentle Monster kém chính xác. Agency Jellyfish triển khai mê ta con vơ sần ây pi ai phía máy chủ để giảm lượng dữ liệu mất từ các sự kiện gửi qua trình duyệt.
+
+Dữ kiện từ nguồn
+
+Jellyfish so sánh số liệu trước và sau khi triển khai trên các chiến dịch mua hàng chạy liên tục.
+
+Kết quả công bố: tăng một trăm hai mươi hai phần trăm rô át, giảm năm mươi phần trăm xi pi ây trung bình, Purchase, thêm năm mươi hai phần trăm lượt mua được ghi nhận.
+
+Đây là so sánh trước hoặc sau, không phải ây bi tét.
+
+Phân tích
+
+Hãy tách hai ý: thêm năm mươi hai phần trăm lượt mua được ghi nhận là đo đủ hơn, chưa chắc là bán thêm được năm mươi hai phần trăm.
+
+Một phần cải thiện rô át và xi pi ây có thể là do hệ thống thấy nhiều chuyển đổi hơn để tối ưu, và một phần chỉ là số đo chính xác hơn. Nguồn không tách hai phần này.
+
+Vì là trước hoặc sau nên các thay đổi khác cùng lúc, creative, mùa vụ, ngân sách, cũng có thể góp phần.
+
+Nguồn không cho biết
+
+Thời gian so sánh và ngân sách trước hoặc sau.
+
+Các thay đổi khác diễn ra cùng lúc.
+
+Doanh thu thật so với doanh thu mê ta báo.
+
+Cách áp dụng
+
+Trước khi triển khai ca pi, ghi lại số Purchase của píc xồ, của máy chủ và của hệ thống đơn hàng trong bảy ngày.
+
+Kiểm tra khử trùng lặp bằng i ven ai đi và tét i ven.
+
+Sau triển khai, báo cáo riêng độ đủ dữ liệu và hiệu quả thật, đơn đã thanh toán.
+
+Nguồn: Jellyfish: Gentle Monster và mê ta con vơ sần ây pi ai. Số liệu do mê ta, đối tác hoặc doanh nghiệp tự công bố, chưa được kiểm chứng độc lập; kết quả của một chiến dịch cụ thể không bảo đảm lặp lại. Thiết kế trước hoặc sau.

@@ -1,0 +1,167 @@
+Chặng một, khoảng bốn mươi lăm phút
+
+Tài khoản, quyền và an toàn
+
+bít nịch pót pho li ô, phân quyền, bảo mật, ờ cao quan li ti và kế hoạch dự phòng.
+
+Nói đơn giản
+
+bít nịch pót pho li ô giống két sắt của công ty: ít chìa khóa nhưng phải có chìa dự phòng, và ai giữ chìa nào phải được ghi lại.
+
+Ví dụ đời thường
+
+bít nịch pót pho li ô giống chìa khóa chung cư. Chủ nhà, át min, giữ chìa chính. Người giúp việc, nhân viên, chỉ có chìa vào những phòng cần dùng. Thợ sửa, agency, chỉ được vào khi có hẹn và phải trả chìa sau khi xong.
+
+Nối với điều bạn đã học
+
+Giống việc quản lý hợp đồng với agency: ai ký, ai thanh toán, ai nhận thông báo. Khác là một lần bị khóa tài khoản cá nhân có thể làm mất quyền với toàn bộ tài sản.
+
+Phân quyền ít nhất cần thiết, tối thiểu hai át min, bật xác thực hai lớp.
+
+Thuật ngữ của chặng này
+
+bít nịch pót pho li ô. Nơi chứa pây, tài khoản quảng cáo, dataset, tên miền và phân quyền của công ty. Trước đây gọi là bít nịch ma na giơ. Ví dụ: Công ty có hai át min và ba nhân viên với quyền riêng.
+
+ờ cao quan li ti. Trang xem trạng thái vi phạm của tài khoản, pây, quảng cáo và gửi yêu cầu xem xét lại. Ví dụ: Quảng cáo bị từ chối sẽ hiện lý do ở đây.
+
+Câu chuyện của Mai và chị Hạnh
+
+Cả công ty chỉ có chị Hạnh là át min duy nhất, và Mai chạy ads bằng quyền của chị.
+
+Mai nói: Chị ơi, tài khoản của chị bị yêu cầu xác minh danh tính mà chị đang nghỉ phép, em không vào được.
+
+Chị Hạnh nói: Đó là lý do chị luôn dặn: ít nhất hai át min, bật xác thực hai lớp, và mỗi người dùng tài khoản cá nhân thật của mình.
+
+Mai nói: Vậy khi thuê agency em cho họ quyền át min cho nhanh được không?
+
+Chị Hạnh nói: Không. Chỉ cấp quyền trên đúng tài khoản quảng cáo họ làm, có thời hạn, xong việc thì thu hồi.
+
+Cách tính ra con số
+
+Vì sao cần át min dự phòng: một tài khoản đứng ba ngày mất bao nhiêu?
+
+Công thức. Đơn trên ngày bằng Ngân sách ngày chia xi pi ây mục tiêu. Lãi bị mất bằng Số đơn nhân Giá bán nhân Lãi mong muốn
+
+Đề bài. Ngân sách trên ngày: sáu trăm nghìn đồng. xi pi ây mục tiêu, chặng không, một trăm mười sáu nghìn tám trăm bảy mươi lăm đồng. Giá bán: ba trăm năm mươi nghìn đồng. Lãi mong muốn: mười phần trăm giá bán. Số ngày mất quyền: ba
+
+Số đơn mỗi ngày khi chạy bình thường: sáu trăm nghìn chia một trăm mười sáu nghìn tám trăm bảy mươi lăm bằng năm phẩy một đơn
+
+Số đơn mất sau ba ngày: năm phẩy một nhân ba bằng mười lăm phẩy bốn đơn
+
+Doanh thu bị mất: mười lăm phẩy bốn nhân ba trăm năm mươi nghìn bằng năm triệu ba trăm chín mươi nghìn ba trăm bảy mươi tư đồng
+
+Lãi bị mất, mỗi đơn lãi mười phần trăm giá bán, mười lăm phẩy bốn nhân ba mươi lăm nghìn bằng năm trăm ba mươi chín nghìn không trăm ba mươi bảy đồng
+
+Kết luận. Chỉ với một chiến dịch sáu trăm nghìn đồng trên ngày, mất quyền ba ngày là mất khoảng mười lăm đơn và năm triệu ba trăm chín mươi nghìn ba trăm bảy mươi tư đồng doanh thu. Một tài khoản có nhiều chiến dịch sẽ mất nhiều hơn rất nhiều.
+
+Vì sao tính như vậy? Số đơn mỗi ngày bằng ngân sách chia cho chi phí mỗi đơn. Lãi bị mất chỉ tính phần lãi mười phần trăm đã đặt làm mục tiêu, nên đây là ước tính thấp. Thêm át min dự phòng tốn vài phút, rẻ hơn nhiều.
+
+Nhắn tin với sếp
+
+Hôm trước cả đội suýt mất quyền vào tài khoản.
+
+Bản chưa tốt
+
+Mai nhắn: Chị ơi mình cần thêm át min ạ.
+
+Bản tốt
+
+Mai nhắn: Chị Hạnh ơi, hiện chỉ có chị là át min bít nịch pót pho li ô. Nếu chị vắng hoặc bị yêu cầu xác minh thì cả đội không vào được tài khoản quảng cáo. Em đề xuất thêm anh Tuấn, quản lý, làm át min thứ hai, bật xác thực hai lớp cho cả hai, và em chỉ giữ quyền chạy quảng cáo. Em làm trong mười lăm phút nếu chị đồng ý ạ.
+
+Vì sao bản tốt hơn?
+
+Nêu rủi ro cụ thể thay vì nói chung chung.
+
+Đề xuất rõ ai, quyền gì.
+
+Nói rõ chi phí thời gian, mười lăm phút.
+
+Vì sao bạn cần học phần này
+
+Phần lớn sự cố nghiêm trọng của người chạy phây búc không đến từ quảng cáo kém mà từ tài khoản: mất quyền át min, thanh toán lỗi, bị hạn chế. ếch xê kiu tiv giỏi dựng nền móng để việc chạy quảng cáo không bao giờ bị dừng đột ngột.
+
+Sau chặng này bạn sẽ
+
+Dựng bít nịch pót pho li ô đúng cấu trúc và phân quyền ít nhất cần thiết
+
+Bật bảo mật cơ bản và hiểu quy trình kháng nghị qua ờ cao quan li ti
+
+Lập kế hoạch dự phòng khi người giữ quyền át min bị khóa
+
+Cấu trúc tài sản và phân quyền
+
+Nguyên tắc: tài sản thuộc về bít nịch pót pho li ô của công ty, không thuộc về cá nhân bạn. át min là chủ sở hữu nên giữ tối thiểu hai người đáng tin. Nhân viên chạy quảng cáo chỉ cần quyền truy cập tài khoản quảng cáo và pây cần thiết.
+
+Tạo bít nịch pót pho li ô bằng i meo công ty, không dùng i meo cá nhân.
+
+Thêm pây và tài khoản in tờ ra gram vào portfolio, không chỉ được chia sẻ quyền.
+
+Tạo tài khoản quảng cáo trong portfolio. Kiểm tra tiền tệ và múi giờ trước khi lưu vì không đổi được.
+
+Gán quyền theo nguyên tắc ít nhất: ếch xê kiu tiv có quyền quản lý quảng cáo, không có quyền quản trị portfolio.
+
+Thêm tối thiểu hai át min, ghi lại ai giữ quyền nào trong một bảng nội bộ.
+
+Thêm và xác minh tên miền trong cài đặt portfolio, làm theo hướng dẫn hiện hành của mê ta.
+
+Ví dụ. Công ty có ba người: giám đốc và trưởng nhóm là át min, bạn và designer là nhân viên. Khi trưởng nhóm nghỉ việc, giám đốc vẫn giữ quyền để thu hồi hoặc chuyển giao.
+
+Bảo mật tài khoản
+
+Theo hướng dẫn của Mega Digital, agency tại Việt Nam, dấu hiệu tài khoản bị chiếm gồm: i meo hoặc mật khẩu bị đổi, tin nhắn hay bài đăng bạn không tạo, cảnh báo đăng nhập từ thiết bị lạ.
+
+Bật xác thực hai lớp cho mọi át min, ưu tiên ứng dụng xác thực thay vì ét em ét.
+
+Bật cảnh báo đăng nhập và kiểm tra thiết bị đã đăng nhập định kỳ.
+
+Không chia sẻ mật khẩu qua chat. Dùng phân quyền trong bít nịch pót pho li ô thay vì đưa tài khoản cá nhân.
+
+Cẩn thận với i meo hoặc tin nhắn giả mạo thông báo vi phạm. Hãy tự truy cập trực tiếp vào mê ta để kiểm tra trạng thái.
+
+Thanh toán và đối soát
+
+Thanh toán thất bại nhiều lần có thể khiến tài khoản bị hạn chế, nguồn: Mega Digital. Hãy dùng phương thức ổn định, theo dõi ngưỡng thanh toán và hạn mức, và để một người chịu trách nhiệm.
+
+Khi tính rô át thật, đối chiếu chi phí trong át ma na giơ với hóa đơn và hỏi kế toán các khoản thuế liên quan đến quảng cáo nước ngoài, vì số trên át ma na giơ có thể không phản ánh toàn bộ chi phí.
+
+ờ cao quan li ti và kháng nghị
+
+ờ cao quan li ti là nơi xem trạng thái vi phạm của tài khoản, pây và quảng cáo. Quy trình kháng nghị cơ bản theo Mega Digital: mở bít nịch pót pho li ô, ờ cao quan li ti, Request Review, xác minh danh tính, xi xi xi đi hoặc hộ chiếu, mô tả rằng bạn tuân thủ chính sách. mê ta nói quyết định trong khoảng bốn mươi tám giờ, nhưng nguồn này ghi nhận nhiều trường hợp chờ nhiều tuần. Nếu sau bốn mươi tám giờ chưa có phản hồi, vào Business Help và dùng Contact us.
+
+Tài khoản cá nhân có thời hạn kháng nghị một trăm tám mươi ngày; quá hạn sẽ bị vô hiệu vĩnh viễn, mê ta Việt Nam, báo VietnamNet, ngày bảy tháng bốn năm hai nghìn không trăm hai mươi sáu.
+
+Sai lầm thường gặp
+
+Đăng ký hoặc thuê tài khoản từ bên thứ ba không rõ nguồn. Nếu cần tài khoản đại lý, chỉ làm qua đối tác chính thức, có hợp đồng và biết rõ ai nắm quyền sở hữu.
+
+Sửa hàng loạt quảng cáo bị từ chối rồi nộp lại liên tục. Hãy đọc lý do, sửa đúng một lần rồi mới nộp.
+
+Bảng ra quyết định: tín hiệu và hành động
+
+Tín hiệu: Một vài quảng cáo đầu tiên của tài khoản mới bị từ chối liên tiếp. Khả năng cao là: Tài khoản mới dễ bị hạn chế, nguồn: Mega Digital nói ba đến bốn quảng cáo bị từ chối có thể kích hoạt. Hành động: Dừng nộp thêm, rà chính sách từng quảng cáo, sửa rồi nộp lần lượt. Độ tin cậy:
+
+Tín hiệu: Thay đổi ngân sách lớn so với ban đầu. Khả năng cao là: Có thể kích hoạt rà soát lại quảng cáo. Hành động: Tăng từng bước nhỏ, không quá khoảng hai mươi phần trăm mỗi lần. Độ tin cậy:
+
+Tín hiệu: Không đăng nhập được hoặc nhận thông báo account integrity. Khả năng cao là: Tài khoản cá nhân bị khóa. Hành động: Tự vào trực tiếp để kiểm tra, kháng nghị trong một trăm tám mươi ngày, báo át min còn lại. Độ tin cậy:
+
+Tín hiệu: Thanh toán bị từ chối lặp lại. Khả năng cao là: Thẻ hết hạn mức, sai thông tin, bị ngân hàng chặn. Hành động: Đổi hoặc bổ sung phương thức, báo kế toán, kiểm tra ngưỡng. Độ tin cậy:
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: Cho agency quyền át min cho nhanh việc.
+
+Thực tế: Cấp quyền tối thiểu cần thiết. Quyền át min cho người ngoài là rủi ro lớn nhất khi có tranh chấp hoặc chia tay.
+
+Nhiều người nghĩ: Tài khoản bị hạn chế thì tạo tài khoản mới là xong.
+
+Thực tế: Có thể bị xem là lách hạn chế. Hãy đọc lý do ở ờ cao quan li ti và dùng quy trình kháng nghị.
+
+Chị Hạnh dặn: Tài khoản là tài sản của công ty, không phải đồ dùng một lần.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Vẽ sơ đồ ai giữ quyền gì trong tài khoản của một dự án bạn biết. Có chỗ nào chỉ một người nắm không?
+
+Thử trong mười phút
+
+Mở phần quản lý quyền của một tài khoản bạn có thể truy cập, liệt kê ai là át min. Nếu chỉ có một người, viết kế hoạch thêm người thứ hai.

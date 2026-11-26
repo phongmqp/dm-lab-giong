@@ -1,0 +1,39 @@
+Chặng mười, khoảng bảy mươi phút
+
+Chẩn đoán và tối ưu hằng ngày
+
+Thang phễu, quy tắc tắt hoặc giữ hoặc tăng và hai hồ sơ mô phỏng.
+
+Tình huống ra quyết định
+
+Tình huống: Chẩn đoán bằng thang phễu
+
+Một chiến dịch có xi pi em ổn định, xi ti a tốt, hai phẩy hai phần trăm, nhưng chỉ năm mươi lăm phần trăm click trở thành lượt xem trang đích. Phần còn lại mua bình thường.
+
+xi ti a: hai phẩy hai phần trăm
+
+Xem trang trên click: năm mươi lăm phần trăm
+
+xi pi em: Ổn định
+
+Điểm gãy đầu tiên là gì và bạn kiểm tra gì?
+
+Lựa chọn một: cri ây tiv, hãy làm vi đê ô mới
+
+Lựa chọn hai: Sau click: tốc độ trang đích, tra king lượt xem trang, click nhầm
+
+Lựa chọn ba: Đối tượng quá rộng
+
+Lựa chọn bốn: Ngân sách quá thấp
+
+Nhịp làm việc của ếch xê kiu tiv
+
+Chạy thang chẩn đoán mỗi khi xi pi ây lệch
+
+Ghi nhật ký thay đổi
+
+Đặt quy tắc tắt hoặc giữ trước khi chạy
+
+Chuẩn bị trước mùa cao điểm
+
+Sản phẩm bàn giao: Hai bản chẩn đoán dùng thang phễu cho hai hồ sơ mô phỏng, kèm đề xuất hành động.

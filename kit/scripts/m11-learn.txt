@@ -1,0 +1,157 @@
+Chặng mười một, khoảng năm mươi phút
+
+Chính sách và xử lý sự cố
+
+Rà soát nội dung, playbook sự cố và kháng nghị.
+
+Nói đơn giản
+
+Chính sách giống luật giao thông: biết biển báo thì chạy nhanh mà vẫn an toàn. Phần lớn rắc rối đến từ nội dung viết ẩu.
+
+Ví dụ đời thường
+
+Chính sách như luật giao thông: biết biển báo thì chạy nhanh mà vẫn an toàn. Phần lớn rắc rối đến từ câu chữ viết ẩu chứ không phải từ ý đồ xấu.
+
+Nối với điều bạn đã học
+
+Giống rà soát claim quảng cáo trong marketing truyền thống, nhưng ở đây hệ thống tự động duyệt từng quảng cáo và có thể hạn chế tài khoản.
+
+Ba mức rủi ro của một câu quảng cáo, ví dụ ngành làm đẹp.
+
+Thuật ngữ của chặng này
+
+ờ cao quan li ti. Trang xem trạng thái vi phạm của tài khoản, pây, quảng cáo và gửi yêu cầu xem xét lại. Ví dụ: Quảng cáo bị từ chối sẽ hiện lý do ở đây.
+
+Câu chuyện của Mai và chị Hạnh
+
+Mai nói: Quảng cáo em viết Bạn bị mụn? Hết ngay hôm nay! bị từ chối rồi ạ.
+
+Chị Hạnh nói: Câu đó vừa gợi ý mình biết đặc điểm cá nhân của người xem, vừa hứa quá mức. Viết lại: mô tả sản phẩm, nêu điều kiện, có bằng chứng.
+
+Mai nói: Em sửa rồi gửi lại mười lần cho chắc được không ạ?
+
+Chị Hạnh nói: Không. Đọc lý do trong ờ cao quan li ti, sửa cho đúng một lần, rồi kháng nghị có kèm bằng chứng.
+
+Cách tính ra con số
+
+Quảng cáo chủ lực bị từ chối hai ngày: tốn bao nhiêu?
+
+Công thức. Đơn mất bằng Đơn trên ngày nhân Số ngày. Lãi mất bằng Đơn mất nhân Giá bán nhân Lãi mong muốn
+
+Đề bài. Ngân sách trên ngày: sáu trăm nghìn đồng. xi pi ây mục tiêu: một trăm mười sáu nghìn tám trăm bảy mươi lăm đồng. Số ngày bị từ chối: hai. Giá bán: ba trăm năm mươi nghìn đồng
+
+Đơn mỗi ngày: sáu trăm nghìn chia một trăm mười sáu nghìn tám trăm bảy mươi lăm bằng năm phẩy một
+
+Đơn mất sau hai ngày: năm phẩy một nhân hai bằng mười phẩy ba
+
+Doanh thu mất: mười phẩy ba nhân ba trăm năm mươi nghìn bằng ba triệu năm trăm chín mươi ba nghìn năm trăm tám mươi ba đồng
+
+Lãi mất: mười phẩy ba nhân ba mươi lăm nghìn bằng ba trăm năm mươi chín nghìn ba trăm năm mươi tám đồng
+
+Kết luận. Hai ngày chờ duyệt mất khoảng mười đơn. Viết đúng chính sách từ đầu và có sẵn quảng cáo dự phòng đã duyệt rẻ hơn việc sửa sau.
+
+Vì sao tính như vậy? Cách tính giống phần át min dự phòng: số đơn mất bằng số đơn mỗi ngày nhân số ngày. Con số nhỏ cho một quảng cáo nhưng nhân lên khi nhiều quảng cáo cùng vi phạm một lỗi câu chữ.
+
+Nhắn tin với sếp
+
+Một quảng cáo vừa bị từ chối.
+
+Bản chưa tốt
+
+Mai nhắn: Chị ơi quảng cáo bị mê ta từ chối rồi, em sửa đăng lại nhiều lần.
+
+Bản tốt
+
+Mai nhắn: Chị ơi, quảng cáo xê rum bị từ chối với lý do thuộc tính cá nhân: câu Bạn bị mụn? gợi ý mình biết tình trạng da của người xem. Em đã viết lại thành mô tả sản phẩm kèm điều kiện sử dụng, kháng nghị một lần kèm ảnh bao bì. Em cũng rà mười hai quảng cáo đang chạy, thấy hai câu tương tự và đã sửa. Em sẽ báo kết quả kháng nghị trong hai mươi tư giờ.
+
+Vì sao bản tốt hơn?
+
+Nêu rõ lý do và cách sửa.
+
+Kháng nghị đúng một lần, không đăng lại nhiều lần.
+
+Chủ động rà phần còn lại.
+
+Vì sao bạn cần học phần này
+
+Quảng cáo bị từ chối hoặc tài khoản bị hạn chế vào đúng ngày sale là cơn ác mộng. ếch xê kiu tiv giỏi biết các nhóm nội dung rủi ro, có quy trình rà soát trước khi nộp, và có kịch bản xử lý khi sự cố xảy ra.
+
+Sau chặng này bạn sẽ
+
+Nhận biết các nhóm nội dung dễ bị từ chối trong ngành bạn phụ trách
+
+Có quy trình rà soát nội dung trước khi nộp quảng cáo
+
+Xử lý quảng cáo bị từ chối và tài khoản bị hạn chế theo từng bước
+
+Tiêu chuẩn quảng cáo của mê ta
+
+mê ta công bố Tiêu chuẩn quảng cáo, có tiếng Việt, nêu những gì được phép và không được phép. Giáo trình này chưa đọc hết toàn bộ nội dung chính sách nên bạn phải đọc trực tiếp trang chính thức và quay lại kiểm tra ít nhất mỗi quý, vì chính sách thay đổi.
+
+Các nhóm thường gặp trong thực tế, cần đối chiếu chính sách hiện hành, nội dung bị cấm; nội dung bị hạn chế, ví dụ rượu, sản phẩm tài chính, tuyển dụng, y tế, yêu cầu về trang đích; khẳng định gây hiểu lầm; thuộc tính cá nhân, không ngụ ý bạn biết đặc điểm riêng của người xem, kết quả không thực tế trong lĩnh vực sức khỏe và giảm cân; hình ảnh trước hoặc sau.
+
+Các ngành dễ gặp vấn đề tại Việt Nam
+
+Thực phẩm bảo vệ sức khỏe, mỹ phẩm, spa hoặc thẩm mỹ, giảm cân, tài chính hoặc vay, bất động sản, tuyển dụng. Ngoài chính sách của mê ta còn có quy định pháp luật Việt Nam về quảng cáo, ví dụ Luật Quảng cáo, và yêu cầu riêng cho một số sản phẩm như thực phẩm bảo vệ sức khỏe, mỹ phẩm, thuốc. Giáo trình không phải tư vấn pháp lý, hãy hỏi pháp chế hoặc chuyên gia.
+
+Quy trình rà soát trước khi nộp
+
+Mục tiêu: giảm số quảng cáo bị từ chối, nhất là ở tài khoản mới, nguồn Mega Digital nói vài quảng cáo bị từ chối liên tiếp có thể dẫn đến hạn chế.
+
+Đọc lại nội dung với danh sách rủi ro của ngành.
+
+Kiểm tra mọi khẳng định có bằng chứng, số liệu, giấy tờ, kết quả khách hàng.
+
+Không dùng cách nói ngụ ý biết thông tin cá nhân, Bạn đang bị mụn? Hãy nói về giải pháp, không chỉ vào người xem.
+
+Với sức khỏe, mỹ phẩm: không hứa hẹn kết quả tuyệt đối, tránh trước hoặc sau gây hiểu lầm.
+
+Kiểm tra trang đích khớp với quảng cáo, có thông tin doanh nghiệp, chính sách, liên hệ.
+
+Nộp theo từng đợt nhỏ thay vì hàng loạt.
+
+Ghi lại ai duyệt nội dung và ngày duyệt.
+
+Khi quảng cáo bị từ chối
+
+Đọc lý do chính xác trong ờ cao quan li ti hoặc át ma na giơ. Sửa đúng điểm bị nêu, rồi nộp lại hoặc yêu cầu xem xét. Đừng nộp đi nộp lại cùng nội dung. Tránh thay đổi ngân sách lớn, trên hai mươi phần trăm, trong thời gian bị rà soát, nguồn Mega Digital nói điều này có thể kích hoạt rà soát lại.
+
+Khi tài khoản bị hạn chế
+
+Theo quy trình kháng nghị: bít nịch pót pho li ô, ờ cao quan li ti, Request Review, xác minh danh tính, mô tả bạn tuân thủ. mê ta nói quyết định trong khoảng bốn mươi tám giờ, nhưng thực tế có thể lâu hơn nhiều; sau bốn mươi tám giờ chưa có phản hồi, dùng Business Help, Contact us. Giữ bằng chứng, ảnh chụp, thời gian, nội dung, và không tạo tài khoản mới liên tục để lách vì có thể bị coi là né tránh hạn chế.
+
+Ví dụ. Mẫu nội dung kháng nghị: Tài khoản quảng cáo của chúng tôi bán, sản phẩm. Quảng cáo bị từ chối vì, lý do. Chúng tôi đã chỉnh sửa như sau, thay đổi cụ thể, và cam kết tuân thủ Tiêu chuẩn quảng cáo. Đính kèm giấy tờ doanh nghiệp hoặc giấy chứng nhận liên quan.
+
+Playbook sự cố
+
+Sự cố: Quảng cáo bị từ chối. Kiểm tra: Lý do cụ thể trong ờ cao quan li ti. Hành động: Sửa đúng điểm bị nêu, nộp lại một lần. Phòng ngừa: Rà soát nội dung theo ngành
+
+Sự cố: Tài khoản quảng cáo bị hạn chế. Kiểm tra: Thông báo và mức độ. Hành động: Kháng nghị, cung cấp giấy tờ, báo quản lý. Phòng ngừa: Nộp ít, đúng, tránh thay đổi lớn đột ngột
+
+Sự cố: Thanh toán lỗi. Kiểm tra: Hạn mức, thẻ, ngân hàng. Hành động: Đổi hoặc bổ sung phương thức, báo kế toán. Phòng ngừa: Một người phụ trách thanh toán
+
+Sự cố: Mất quyền át min. Kiểm tra: Ai còn quyền. Hành động: Liên hệ át min còn lại, kháng nghị. Phòng ngừa: Ít nhất hai át min
+
+Sự cố: tra king ngừng hoạt động. Kiểm tra: Events Manager, trình quản lý thẻ. Hành động: Khôi phục, đối chiếu dữ liệu. Phòng ngừa: Cảnh báo lệch số liệu
+
+Sự cố: Chi tiêu đột biến. Kiểm tra: Lịch sử thay đổi, quy tắc tự động. Hành động: Tạm dừng, kiểm tra, giới hạn chi tiêu. Phòng ngừa: Đặt giới hạn chi tiêu tài khoản
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: Chỉ cần né vài từ khóa là qua.
+
+Thực tế: Hệ thống xem cả hình, ý nghĩa và trang đích, không chỉ từ khóa.
+
+Nhiều người nghĩ: Bị từ chối thì đăng lại thật nhiều lần.
+
+Thực tế: Lặp lại vi phạm có thể ảnh hưởng chất lượng tài khoản. Hãy sửa tận gốc rồi kháng nghị.
+
+Chị Hạnh dặn: Viết như thể người xem là bạn mình, không phải người cần dụ.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Chọn năm câu quảng cáo trong ngành bạn, xếp vào xanh, vàng, đỏ và giải thích vì sao.
+
+Thử trong mười phút
+
+Chọn năm câu quảng cáo trong ngành bạn và xếp vào xanh, an toàn, vàng, cần bằng chứng, đỏ, dễ bị từ chối.

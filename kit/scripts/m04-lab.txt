@@ -1,0 +1,57 @@
+Chặng bốn, khoảng sáu mươi phút
+
+Ngân sách, learning phase và mở rộng
+
+Tính ngân sách từ xi pi ây, tránh reset học, lộ trình tăng an toàn.
+
+Tình huống ra quyết định
+
+Tình huống: Ngân sách quá nhỏ cho quá nhiều nhóm
+
+Ngân sách sáu trăm nghìn đồng trên ngày, xi pi ây mục tiêu một trăm năm mươi nghìn đồng, đang chạy sáu nhóm quảng cáo, hầu hết ở trạng thái lơ ning lim mịt.
+
+Mỗi nhóm: một trăm nghìn đồng trên ngày
+
+Sự kiện trên tuần trên nhóm: xấp xỉ bốn phẩy bảy
+
+Nếu gom một nhóm: xấp xỉ hai mươi tám hoặc tuần
+
+Lựa chọn tốt nhất?
+
+Lựa chọn một: Giữ sáu nhóm và chờ thêm
+
+Lựa chọn hai: Gom về một nhóm, đồng thời tăng ngân sách dần hoặc hạ sự kiện tối ưu lên tầng trên nếu thật sự thiếu đơn
+
+Lựa chọn ba: Đặt cost cap rất thấp
+
+Lựa chọn bốn: Sửa creative mỗi ngày
+
+Tình huống: Sếp muốn nhân đôi ngân sách ngay
+
+Chiến dịch đang có xi pi ây tốt với một triệu trên ngày. Sếp muốn nâng lên hai triệu ngay hôm nay.
+
+Hiện tại: một triệu trên ngày
+
+Mục tiêu: hai triệu trên ngày
+
+Bạn đề xuất gì?
+
+Lựa chọn một: Tăng ngay lên hai triệu
+
+Lựa chọn hai: Tăng khoảng hai mươi phần trăm mỗi ba đến năm ngày hoặc nhân bản cấu hình thắng, giải thích lộ trình khoảng mười hai đến hai mươi ngày
+
+Lựa chọn ba: Tắt rồi mở lại
+
+Lựa chọn bốn: Tăng năm mươi phần trăm hôm nay và năm mươi phần trăm hôm sau
+
+Nhịp làm việc của ếch xê kiu tiv
+
+Không chỉnh nhóm đang học trong bảy ngày đầu
+
+Tăng ngân sách tối đa hai mươi phần trăm mỗi ba đến năm ngày
+
+Ghi lại mọi thay đổi và thời điểm
+
+Kiểm tra số sự kiện trên tuần mỗi nhóm
+
+Sản phẩm bàn giao: Một bảng tính ngân sách cho ba chiến dịch: xi pi ây, ngân sách, số nhóm, lộ trình tăng.

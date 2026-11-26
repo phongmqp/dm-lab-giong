@@ -1,0 +1,175 @@
+Chặng bảy, khoảng bảy mươi lăm phút
+
+cờ lích tu mét sịt và lít ở Việt Nam
+
+Đo phễu hộp thư đến đơn chốt, tối ưu lead, kịch bản chat.
+
+Nói đơn giản
+
+Khách nhắn tin giống bước vào cửa hàng hỏi nhân viên. Quảng cáo chỉ mở cửa, còn tư vấn và chốt đơn là việc của đội chat.
+
+Ví dụ đời thường
+
+Quảng cáo chỉ là mở cửa tiệm; đội chat mới là nhân viên bán hàng. Cửa mở rộng mà nhân viên ngủ gật thì khách quay đi.
+
+Nối với điều bạn đã học
+
+Giống tư vấn tại điểm bán, nhưng mỗi cuộc trò chuyện có chi phí và có nguồn quảng cáo, nên bạn tính được chi phí cho từng đơn chốt.
+
+Chi phí mỗi tin nhắn rẻ hơn chưa chắc ra đơn rẻ hơn, số minh họa.
+
+Kịch bản chat theo năm bước: chào, hỏi nhu cầu, tư vấn, xin số điện thoại, chốt.
+
+Thuật ngữ của chặng này
+
+cờ lích tu mét sịt. Quảng cáo dẫn khách vào cuộc trò chuyện mét sen giơ, in tờ ra gram hoặc quát áp thay vì vào website. Ví dụ: Nút Nhắn tin trên quảng cáo.
+
+lít. Khách tiềm năng đã để lại thông tin liên hệ. Ví dụ: Khách để lại số điện thoại trong chat.
+
+ét eo ây phản hồi. Thời gian cam kết trả lời khách. Ví dụ phản hồi đầu tiên dưới năm phút trong giờ làm việc. Ví dụ: Đo thời gian từ tin nhắn đầu tiên tới lần trả lời đầu tiên.
+
+xi pi ây. Chi phí cho mỗi kết quả, đơn hàng, lead. Là chỉ số quyết định lãi hay lỗ. Ví dụ: Chi hai mươi triệu cho một trăm mười đơn thì xi pi ây khoảng một trăm tám mươi hai nghìn đồng.
+
+Câu chuyện của Mai và chị Hạnh
+
+Hai chiến dịch nhắn tin chạy song song, chi gần như bằng nhau, ~hai mươi triệu.
+
+Mai nói: Chiến dịch A rẻ hơn: hai mươi nghìn đồng một cuộc trò chuyện, B tới hai mươi tám nghìn đồng. Em dồn tiền cho A ạ.
+
+Chị Hạnh nói: Em kéo tiếp đến đơn chốt: A có ba mươi đơn, B có năm mươi tư đơn.
+
+Mai nói: Vậy chi phí mỗi đơn A xấp xỉ sáu trăm sáu mươi bảy nghìn đồng, B xấp xỉ ba trăm sáu mươi ba nghìn đồng. B rẻ gần một nửa!
+
+Chị Hạnh nói: Chat rẻ nhưng khách ít để lại số điện thoại thì đắt ở cuối phễu. Luôn đếm đến đơn chốt.
+
+Cách tính ra con số
+
+Phễu hộp thư: vì sao chiến dịch B rẻ hơn A gần một nửa?
+
+Công thức. Chi phí trên chat bằng Chi phí chia Số chat. Tỷ lệ thu số điện thoại bằng số điện thoại chia Chat. Tỷ lệ chốt bằng Đơn chia số điện thoại. Chi phí trên đơn bằng Chi phí trên chat chia, Tỷ lệ thu số điện thoại nhân Tỷ lệ chốt,
+
+Đề bài. A: hai mươi triệu đồng, một nghìn chat, một trăm năm mươi số điện thoại, ba mươi đơn. B: mười chín triệu sáu trăm nghìn đồng, bảy trăm chat, hai trăm bốn mươi lăm số điện thoại, năm mươi tư đơn
+
+A: chi phí trên chat: hai mươi triệu chia một nghìn bằng hai mươi nghìn đồng
+
+A: tỷ lệ thu số điện thoại: một trăm năm mươi chia một nghìn bằng mười lăm phần trăm
+
+A: tỷ lệ chốt: ba mươi chia một trăm năm mươi bằng hai mươi phần trăm
+
+A: chi phí trên đơn: hai mươi nghìn chia, mười lăm phần trăm nhân hai mươi phần trăm, bằng sáu trăm sáu mươi sáu nghìn sáu trăm sáu mươi bảy đồng
+
+B: chi phí trên chat: mười chín triệu sáu trăm nghìn chia bảy trăm bằng hai mươi tám nghìn đồng
+
+B: tỷ lệ thu số điện thoại: hai trăm bốn mươi lăm chia bảy trăm bằng ba mươi lăm phần trăm
+
+B: tỷ lệ chốt: năm mươi tư chia hai trăm bốn mươi lăm bằng hai mươi hai phần trăm
+
+B: chi phí trên đơn: hai mươi tám nghìn chia, ba mươi lăm phần trăm nhân hai mươi hai phần trăm, bằng ba trăm sáu mươi hai nghìn chín trăm sáu mươi ba đồng
+
+Kết luận. A rẻ hơn ở chat, hai mươi nghìn đồng so với hai mươi tám nghìn đồng, nhưng chi phí mỗi đơn của B chỉ ba trăm sáu mươi hai nghìn chín trăm sáu mươi ba đồng, thấp hơn bốn mươi sáu phần trăm.
+
+Vì sao tính như vậy? Chi phí trên đơn là tích của ba tầng liên tiếp. Chat A rẻ nhưng chỉ mười lăm phần trăm khách để lại số điện thoại, trong khi B có tới ba mươi lăm phần trăm. Tầng số điện thoại quyết định cuối phễu, nên đừng dừng ở chi phí mỗi chat.
+
+Nhắn tin với sếp
+
+Mai so sánh hai chiến dịch nhắn tin.
+
+Bản chưa tốt
+
+Mai nhắn: Chị ơi chiến dịch A rẻ hơn, em tăng tiền cho A nhé.
+
+Bản tốt
+
+Mai nhắn: Chị ơi, A rẻ hơn ở chat, hai mươi nghìn đồng so với hai mươi tám nghìn đồng, nhưng chi phí mỗi đơn A xấp xỉ sáu trăm sáu mươi sáu nghìn sáu trăm sáu mươi bảy đồng, B xấp xỉ ba trăm sáu mươi hai nghìn chín trăm sáu mươi ba đồng vì B thu số điện thoại ba mươi lăm phần trăm, A chỉ mười lăm phần trăm. Em đề xuất chuyển ba mươi phần trăm ngân sách từ A sang B, và xem lại kịch bản chat của A: có vẻ đội chat chưa hỏi nhu cầu trước khi xin số điện thoại. Em sẽ báo lại sau năm ngày.
+
+Vì sao bản tốt hơn?
+
+Đếm tới đơn chốt thay vì dừng ở chat.
+
+Giải thích nguyên nhân bằng tỷ lệ ở tầng giữa.
+
+Đề xuất vừa đổi tiền vừa sửa kịch bản.
+
+Vì sao bạn cần học phần này
+
+Ở Việt Nam, tám mươi đến chín mươi phần trăm doanh nghiệp chạy quảng cáo phây búc dùng cờ lích tu mét sịt, theo mê ta Việt Nam. Nếu bạn chỉ tối ưu cho số cuộc trò chuyện, bạn có thể mua phải nhiều tin nhắn nhưng ít đơn. Module này dạy cách đo và tối ưu đến đơn chốt.
+
+Sau chặng này bạn sẽ
+
+Phân biệt tối ưu theo cuộc trò chuyện và theo chuyển đổi trên lead
+
+Dựng phễu đo: chi phí tin nhắn, số điện thoại, đơn chốt
+
+Thiết kế ây bi tét tối ưu lead trong một hai tuần
+
+cờ lích tu mét sịt hoạt động thế nào
+
+Khách bấm quảng cáo và bắt đầu cuộc trò chuyện trong mét sen giơ, in tờ ra gram hoặc quát áp. Bạn chọn mục tiêu chiến dịch, kênh nhắn tin, đối tượng và lời chào. Respond.io khuyên chọn tối đa hóa chuyển đổi thay vì tối đa hóa các cuộc trò chuyện để lấy khách có khả năng chuyển đổi hơn.
+
+Tối ưu theo trò chuyện hay theo lead, xi ti em-eo ô,
+
+Botcake, nền tảng chatbot Việt Nam, công bố hai case so sánh quảng cáo tối ưu theo cuộc trò chuyện với quảng cáo cờ lích tu mét sịt tối ưu theo lead, xi ti em-eo ô, có gửi tín hiệu sự kiện từ chatbot về mê ta để huấn luyện thuật toán. Kết quả, xem tab Case, cho thấy chi phí mỗi lead giảm và số lead tăng. Đây là kết quả do nhà cung cấp công bố nên hãy tự chạy thử trước khi áp dụng rộng.
+
+Phễu hộp thư: bạn phải đo mấy tầng?
+
+Một phễu tối thiểu: chi phí hoặc cuộc trò chuyện, số điện thoại, lead, lead đủ điều kiện, đơn chốt, đơn giao thành công. Mỗi tầng có tỷ lệ riêng và đều ảnh hưởng đến xi pi ây cuối. Một chiến dịch có chi phí tin nhắn thấp nhưng tỷ lệ thu số điện thoại rất thấp thường đắt hơn khi tính trên mỗi đơn.
+
+Ví dụ. Chiến dịch A: một nghìn cuộc trò chuyện, hai mươi nghìn đồng mỗi cuộc, mười lăm phần trăm để lại số điện thoại, hai mươi phần trăm lead chốt đơn. Chiến dịch B: bảy trăm cuộc, hai mươi tám nghìn đồng mỗi cuộc, ba mươi lăm phần trăm để lại số điện thoại, hai mươi hai phần trăm chốt. Chi phí mỗi đơn của A xấp xỉ sáu trăm sáu mươi bảy nghìn đồng, của B xấp xỉ ba trăm sáu mươi tư nghìn đồng, dù chi phí tin nhắn của B cao hơn., Số minh họa.,
+
+Kịch bản chat và vận hành
+
+Quảng cáo chỉ mang người đến cửa, kịch bản và tốc độ phản hồi quyết định chốt đơn. Respond.io nhấn mạnh: tự động phân lead cho nhân viên đang rảnh, dùng tự động hóa trả lời câu hỏi thường gặp và đặt kỳ vọng ngoài giờ, dùng hộp thư chung để không bỏ sót tin nhắn từ nhiều kênh.
+
+Lời chào: nêu lợi ích và đưa hai đến ba lựa chọn bấm nhanh, ví dụ loại da.
+
+Hỏi để hiểu: một đến hai câu về nhu cầu.
+
+Xin số điện thoại có lý do: Để tư vấn chính xác và giữ ưu đãi, bạn cho mình xin số điện thoại để bên mình gọi xác nhận nhé.
+
+Gán nhãn: Mới, Đã liên hệ, Quan tâm, Chốt, Rác.
+
+Đặt thời hạn phản hồi, ví dụ phản hồi đầu tiên dưới năm phút trong giờ làm việc, và đo nó.
+
+Gửi tín hiệu về mê ta, qua chatbot hoặc xi a em tích hợp, cho lead thật và đơn chốt để thuật toán học đúng.
+
+Rủi ro và chính sách nhắn tin
+
+Hãy tuân thủ chính sách nhắn tin của mê ta, ví dụ cửa sổ nhắn tin cho phép gửi tin sau lần tương tác cuối, và quy định về dữ liệu cá nhân. Đọc chính sách hiện hành trước khi gửi hàng loạt hoặc tin nhắn định kỳ.
+
+Sai lầm thường gặp
+
+Dùng chatbot trả lời cứng nhắc làm khách bỏ đi.
+
+Lọc lead không rõ tiêu chí rồi gửi hết cho sale.
+
+Không đo tỷ lệ chốt theo từng nguồn quảng cáo.
+
+Hai cách tối ưu: so sánh
+
+Tiêu chí: Ưu điểm. Tối đa hóa cuộc trò chuyện: Nhiều tin nhắn, chi phí hoặc tin nhắn thấp. Tối ưu lead hoặc chuyển đổi: Khách có xu hướng để lại thông tin hơn
+
+Tiêu chí: Rủi ro. Tối đa hóa cuộc trò chuyện: Nhiều tin nhắn chất lượng thấp. Tối ưu lead hoặc chuyển đổi: Số tin nhắn ít hơn, cần tín hiệu đủ tốt
+
+Tiêu chí: Chỉ số quyết định. Tối đa hóa cuộc trò chuyện: Chi phí hoặc cuộc trò chuyện. Tối ưu lead hoặc chuyển đổi: Chi phí trên lead và chi phí trên đơn
+
+Tiêu chí: Cách kiểm chứng. Tối đa hóa cuộc trò chuyện: Giữ đối chứng. Tối ưu lead hoặc chuyển đổi: ây bi tét hai tuần, cùng ngân sách
+
+Hiểu nhầm hay gặp
+
+Nhiều người nghĩ: Chi phí mỗi tin nhắn thấp là tốt.
+
+Thực tế: Đó chỉ là bước đầu phễu. Chất lượng tin nhắn quyết định tỷ lệ thu số điện thoại và chốt đơn.
+
+Nhiều người nghĩ: Khách sẽ chờ nếu mình trả lời chậm.
+
+Thực tế: Khách đang nhắn nhiều shop cùng lúc. Hãy đặt ét eo ây, ví dụ phản hồi đầu tiên dưới năm phút trong giờ làm việc.
+
+Chị Hạnh dặn: Đếm đến đơn chốt, đừng dừng ở tin nhắn.
+
+Tự kiểm tra: giảng lại cho người khác
+
+Đóng vai khách nhắn tin cho ba shop. Đo thời gian trả lời đầu tiên và xem họ có hỏi nhu cầu trước khi báo giá không.
+
+Thử trong mười phút
+
+Đóng vai khách, nhắn tin cho ba shop cùng ngành. Ghi thời gian phản hồi đầu tiên và mức độ tư vấn, xem họ có xin số điện thoại có lý do không.

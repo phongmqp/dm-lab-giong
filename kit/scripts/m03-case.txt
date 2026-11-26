@@ -1,0 +1,45 @@
+Chặng ba, khoảng sáu mươi phút
+
+Mục tiêu và cấu trúc chiến dịch
+
+ây bi ô, át van tịt, đặt tên, iu ti em và chéc lít trước khi bật.
+
+Case thực tế Case cấu trúc: gom lại thay vì chia nhỏ
+
+Một agency cắt mười sáu nhóm quảng cáo còn hai chiến dịch át van tịt
+
+mười sáu, hai: Số nhóm hoặc chiến dịch
+
+năm, hai: Số chiến dịch
+
+Thấp hơn: Chi phí khách hàng
+
+Bối cảnh
+
+Bài hướng dẫn của Nowoka trích một ví dụ ẩn danh: một agency gom mười sáu nhóm quảng cáo trải trên năm chiến dịch thành hai chiến dịch át van tịt, giữ nguyên creative.
+
+Dữ kiện từ nguồn
+
+Nguồn nêu chi phí thu hút khách thấp hơn sau khi gom, nhưng không cung cấp con số tuyệt đối, tên khách hàng hay thời gian.
+
+Nguồn nhấn mạnh kết quả có thể khác nhau tùy tài khoản.
+
+Phân tích
+
+Logic đứng sau: dữ liệu được gom vào ít nhóm hơn, mỗi nhóm có nhiều sự kiện hơn để học, mốc khoảng năm mươi sự kiện mỗi tuần mỗi nhóm.
+
+Đây là một ví dụ đơn lẻ, ẩn danh. Hãy xem nó như một giả thuyết cần kiểm chứng, không phải chuẩn.
+
+Nguồn không cho biết
+
+Không có số liệu trước hoặc sau, ngân sách, ngành, thời gian.
+
+Cách áp dụng
+
+Ghi lại cấu trúc hiện tại và số sự kiện mỗi nhóm trong bảy ngày.
+
+Gom các nhóm có đối tượng trùng lặp, giữ lại creative tốt nhất.
+
+So sánh xi pi ây mười bốn ngày trước hoặc sau, lưu ý mùa vụ.
+
+Nguồn: Nowoka, mê ta át hai nghìn không trăm hai mươi sáu guide. Ví dụ ẩn danh trong một bài hướng dẫn của bên thứ ba.

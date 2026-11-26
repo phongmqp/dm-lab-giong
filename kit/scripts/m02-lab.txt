@@ -1,0 +1,73 @@
+Chặng hai, khoảng bảy mươi phút
+
+tra king: píc xồ, ca pi và chất lượng dữ liệu
+
+Khử trùng lặp, i ven mát quan li ti và quy trình kiu ây tám bước.
+
+kiu ây tra king
+
+Cài đặt
+
+píc xồ hoặc đa ta sét đã gắn đúng website
+
+ca pi đang gửi sự kiện
+
+Cùng event name giữa píc xồ và ca pi
+
+Có i ven ai đi cho mọi sự kiện
+
+action source đặt đúng
+
+Dữ liệu
+
+Purchase có value và currency, vi en đi,
+
+Gửi em hoặc ph hoặc fn hoặc ln đã băm
+
+Gửi client ip address và client user agent
+
+số điện thoại đã chuẩn hóa mã quốc gia
+
+Kiểm tra
+
+Đã chạy tét i ven
+
+i em kiu từng sự kiện được ghi lại
+
+Đối chiếu số đơn bảy ngày
+
+Có cảnh báo khi lệch bất thường
+
+Tình huống ra quyết định
+
+Tình huống: mê ta nói nhiều hơn thực tế
+
+Tuần qua mê ta ghi một trăm hai mươi Purchase, hệ thống đơn hàng của công ty có bảy mươi tám đơn. Bạn kiểm tra thấy píc xồ và ca pi đều bật.
+
+mê ta: một trăm hai mươi Purchase
+
+Hệ thống: bảy mươi tám đơn
+
+i em kiu Purchase: bảy phẩy hai
+
+Bước kiểm tra nào hợp lý nhất đầu tiên?
+
+Lựa chọn một: Tăng ngân sách vì rô át cao
+
+Lựa chọn hai: Kiểm tra khử trùng lặp: event name và i ven ai đi có khớp giữa píc xồ và ca pi không
+
+Lựa chọn ba: Tắt ca pi
+
+Lựa chọn bốn: Đổi mục tiêu sang lưu lượng truy cập
+
+Nhịp làm việc của ếch xê kiu tiv
+
+Đối chiếu Purchase mê ta với đơn thật mỗi tuần
+
+Kiểm tra tét i ven sau mỗi lần sửa website
+
+Theo dõi i em kiu từng sự kiện
+
+Lưu cấu hình tra king trong tài liệu
+
+Sản phẩm bàn giao: Một bản tra king ót đit một trang: sự kiện, tham số, i em kiu, lệch dữ liệu, đề xuất sửa.
